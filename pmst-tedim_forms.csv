@@ -1,0 +1,748 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,paradigm_tag,overabundance_tag,source,page,language_id
+tedim001,no_stem,1.sg,kei¹,kei¹,kei¹,k ei ⁵,k ei ⁵,unspecified,,,Otsuka2014Tedim,118,tedim
+tedim002,no_stem,1.pl.excl,kou³,kou³,kou³,k ou ¹,k ou ¹,unspecified,,,Otsuka2014Tedim,118,tedim
+tedim003,no_stem,1.pl.incl,ei¹,ei¹,ei¹,ei ⁵,ei ⁵,unspecified,,,Otsuka2014Tedim,118,tedim
+tedim004,no_stem,2.sg,naŋ¹,naŋ¹,naŋ¹,n a ŋ ⁵,n a ŋ ⁵,unspecified,,,Otsuka2014Tedim,118,tedim
+tedim005,no_stem,2.pl,nou³,nou³,nou³,n ou ¹,n ou ¹,unspecified,,,Otsuka2014Tedim,118,tedim
+tedim006,no_stem,3.sg,a¹maʔ³,a¹maʔ³,a¹maʔ³,a ⁵ m a ʔ ¹,a ⁵ m a ʔ ¹,unspecified,,,Otsuka2014Tedim,118,tedim
+tedim007,no_stem,3.pl,a¹mâu³,a¹mâu³,a¹mâu³,a ⁵ m aa u ¹,a ⁵ m aa u ¹,unspecified,,,Otsuka2014Tedim,118,tedim
+tedim008,pai²,1.sg.fut.aff,pai² niŋ¹,Σ niŋ¹,Σ+n+iŋ¹,Σ n i ŋ ⁵,Σ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim009,pai²,1.sg.fut.aff,pai² diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim010,pai²,1.sg.fut.aff,ka² pai² diːŋ¹ hiː³,ka² Σ diːŋ¹ hiː³,ka²+Σ+diːŋ¹+hiː³,k a ³ Σ d ii ŋ ⁵ h ii ¹,k a ³ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim011,pai²,1.pl.excl.fut.aff,pai² nuːŋ³,Σ nuːŋ³,Σ+nuːŋ³,Σ n uu ŋ ¹,Σ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim012,pai²,1.pl.excl.fut.aff,pai² diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim013,pai²,1.pl.excl.fut.aff,pai² diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim014,pai²,1.pl.incl.fut.aff,pai² diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim015,pai²,1.pl.incl.fut.aff,pai² diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim016,pai²,1.pl.incl.fut.aff,pai² niː³,Σ niː³,Σ+niː³,Σ n ii ¹,Σ + n ii ¹,informal,hort,,Zhou2025Tedim,nopage,tedim
+tedim017,pai²,1.pl.excl.fut.aff,ka² pai² diːŋ¹ hiː³,ka² Σ diːŋ¹ hiː³,ka²+Σ+diːŋ¹+hiː³,k a ³ Σ d ii ŋ ⁵ h ii ¹,k a ³ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim018,pai²,1.pl.excl.fut.aff,ka² pai² diːŋ¹ uʔ³ hiː³,ka² Σ diːŋ¹ uʔ³ hiː³,ka²+Σ+diːŋ¹+uʔ³+hiː³,k a ³ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ³ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim019,pai²,1.pl.incl.fut.aff,i² pai² diːŋ¹ hiː³,i² Σ diːŋ¹ hiː³,i²+Σ+diːŋ¹+hiː³,i ³ Σ d ii ŋ ⁵ h ii ¹,i ³ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim020,mu:³,1.sg.2.sg.fut.aff,hoŋ¹-muː³ niŋ¹,hoŋ¹-Σ niŋ¹,hoŋ¹+Σ+n+iŋ¹,h o ŋ ⁵ Σ n i ŋ ⁵,h o ŋ ⁵ + Σ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim021,mu:³,1.sg.2.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim022,mu:³,1.sg.2.sg.fut.aff,koŋ¹-mu³ diːŋ¹ hiː³,koŋ¹-Σ diːŋ¹ hiː³,koŋ¹+Σ+diːŋ¹+hiː³,k o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim023,mu:³,1.sg.2.pl.fut.aff,hoŋ¹-muː³ niŋ¹,hoŋ¹-Σ niŋ¹,hoŋ¹+Σ+n+iŋ¹,h o ŋ ⁵ Σ n i ŋ ⁵,h o ŋ ⁵ + Σ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim024,mu:³,1.sg.2.pl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim025,mu:³,1.sg.2.pl.fut.aff,koŋ¹-mu³ diːŋ¹ hiː³,koŋ¹-Σ diːŋ¹ hiː³,koŋ¹+Σ+diːŋ¹+hiː³,k o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim026,mu:³,1.pl.excl.2.sg.fut.aff,hoŋ¹-muː³ nuːŋ³,hoŋ¹-Σ nuːŋ³,hoŋ¹+Σ+nuːŋ³,h o ŋ ⁵ Σ n uu ŋ ¹,h o ŋ ⁵ + Σ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim027,mu:³,1.pl.excl.2.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim028,mu:³,1.pl.excl.2.sg.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim029,mu:³,1.pl.excl.2.sg.fut.aff,koŋ¹-mu³ diːŋ¹ hiː³,koŋ¹-Σ diːŋ¹ hiː³,koŋ¹+Σ+diːŋ¹+hiː³,k o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim030,mu:³,1.pl.excl.2.sg.fut.aff,koŋ¹-mu³ diːŋ¹ uʔ³ hiː³,koŋ¹-Σ diːŋ¹ uʔ³ hiː³,koŋ¹+Σ+diːŋ¹+uʔ³+hiː³,k o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim031,mu:³,1.pl.excl.2.pl.fut.aff,hoŋ¹-muː³ nuːŋ³,hoŋ¹-Σ nuːŋ³,hoŋ¹+Σ+nuːŋ³,h o ŋ ⁵ Σ n uu ŋ ¹,h o ŋ ⁵ + Σ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim032,mu:³,1.pl.excl.2.pl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim033,mu:³,1.pl.excl.2.pl.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim034,mu:³,1.pl.excl.2.pl.fut.aff,koŋ¹-mu³ diːŋ¹ hiː³,koŋ¹-Σ diːŋ¹ hiː³,koŋ¹+Σ+diːŋ¹+hiː³,k o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim035,mu:³,1.pl.excl.2.pl.fut.aff,koŋ¹-mu³ diːŋ¹ uʔ³ hiː³,koŋ¹-Σ diːŋ¹ uʔ³ hiː³,koŋ¹+Σ+diːŋ¹+uʔ³+hiː³,k o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim036,mu:³,1.sg.3.sg.fut.aff,muː³ niŋ¹,Σ niŋ¹,Σ+n+iŋ¹,Σ n i ŋ ⁵,Σ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim037,mu:³,1.sg.3.sg.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim038,mu:³,1.sg.3.sg.fut.aff,ka¹ mu³ diːŋ¹ hiː³,ka¹ Σ diːŋ¹ hiː³,ka¹+Σ+diːŋ¹+hiː³,k a ⁵ Σ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim039,mu:³,1.sg.3.pl.fut.aff,muː³ niŋ¹,Σ niŋ¹,Σ+n+iŋ¹,Σ n i ŋ ⁵,Σ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim040,mu:³,1.sg.3.pl.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim041,mu:³,1.sg.3.pl.fut.aff,ka¹ mu³ diːŋ¹ hiː³,ka¹ Σ diːŋ¹ hiː³,ka¹+Σ+diːŋ¹+hiː³,k a ⁵ Σ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim042,mu:³,1.pl.excl.3.sg.fut.aff,muː³ nuːŋ³,Σ nuːŋ³,Σ+nuːŋ³,Σ n uu ŋ ¹,Σ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim043,mu:³,1.pl.excl.3.sg.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim044,mu:³,1.pl.excl.3.sg.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim045,mu:³,1.pl.incl.3.sg.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim046,mu:³,1.pl.incl.3.sg.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim047,mu:³,1.pl.incl.3.sg.fut.aff,muː³ niː³,Σ niː³,Σ+niː³,Σ n ii ¹,Σ + n ii ¹,informal,hort,,Zhou2025Tedim,nopage,tedim
+tedim048,mu:³,1.pl.excl.3.sg.fut.aff,ka¹ mu³ diːŋ¹ hiː³,ka¹ Σ diːŋ¹ hiː³,ka¹+Σ+diːŋ¹+hiː³,k a ⁵ Σ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim049,mu:³,1.pl.excl.3.sg.fut.aff,ka¹ mu³ diːŋ¹ uʔ³ hiː³,ka¹ Σ diːŋ¹ uʔ³ hiː³,ka¹+Σ+diːŋ¹+uʔ³+hiː³,k a ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim050,mu:³,1.pl.incl.3.sg.fut.aff,i¹ mu³ diːŋ¹ hiː³,i¹ Σ diːŋ¹ hiː³,i¹+Σ+diːŋ¹+hiː³,i ⁵ Σ d ii ŋ ⁵ h ii ¹,i ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim051,mu:³,1.pl.excl.3.pl.fut.aff,muː³ nuːŋ³,Σ nuːŋ³,Σ+nuːŋ³,Σ n uu ŋ ¹,Σ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim052,mu:³,1.pl.excl.3.pl.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim053,mu:³,1.pl.excl.3.pl.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim054,mu:³,1.pl.incl.3.pl.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim055,mu:³,1.pl.incl.3.pl.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim056,mu:³,1.pl.incl.3.pl.fut.aff,muː³ niː³,Σ niː³,Σ+niː³,Σ n ii ¹,Σ + n ii ¹,informal,hort,,Zhou2025Tedim,nopage,tedim
+tedim057,mu:³,1.pl.excl.3.pl.fut.aff,ka¹ mu³ diːŋ¹ hiː³,ka¹ Σ diːŋ¹ hiː³,ka¹+Σ+diːŋ¹+hiː³,k a ⁵ Σ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim058,mu:³,1.pl.excl.3.pl.fut.aff,ka¹ mu³ diːŋ¹ uʔ³ hiː³,ka¹ Σ diːŋ¹ uʔ³ hiː³,ka¹+Σ+diːŋ¹+uʔ³+hiː³,k a ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim059,mu:³,1.pl.incl.3.pl.fut.aff,i¹ mu³ diːŋ¹ hiː³,i¹ Σ diːŋ¹ hiː³,i¹+Σ+diːŋ¹+hiː³,i ⁵ Σ d ii ŋ ⁵ h ii ¹,i ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim060,pai²,2.sg.fut.aff,pai² ni¹teʔ³,Σ ni¹teʔ³,Σ+ni¹+teʔ³,Σ n i ⁵ t e ʔ ¹,Σ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim061,pai²,2.sg.fut.aff,pai² diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim062,pai²,2.sg.fut.aff,na² pai² diːŋ¹ hiː³,na² Σ diːŋ¹ hiː³,na²+Σ+diːŋ¹+hiː³,n a ³ Σ d ii ŋ ⁵ h ii ¹,n a ³ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim063,pai²,2.pl.fut.aff,pai² nu¹teʔ³,Σ nu¹teʔ³,Σ+nu¹teʔ³,Σ n u ⁵ t e ʔ ¹,Σ + n u ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim064,pai²,2.pl.fut.aff,pai² diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim065,pai²,2.pl.fut.aff,pai² diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim066,pai²,2.pl.fut.aff,na² pai² diːŋ¹ hiː³,na² Σ diːŋ¹ hiː³,na²+Σ+diːŋ¹+hiː³,n a ³ Σ d ii ŋ ⁵ h ii ¹,n a ³ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim067,pai²,2.pl.fut.aff,na² pai² diːŋ¹ uʔ³ hiː³,na² Σ diːŋ¹ uʔ³ hiː³,na²+Σ+diːŋ¹+uʔ³+hiː³,n a ³ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ³ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim068,mu:³,2.sg.1.sg.fut.aff,hoŋ¹-muː³ ni¹teʔ³,hoŋ¹-Σ ni¹teʔ³,hoŋ¹+Σ+ni¹+teʔ³,h o ŋ ⁵ Σ n i ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim069,mu:³,2.sg.1.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim070,mu:³,2.sg.1.sg.fut.aff,noŋ¹-mu³ diːŋ¹ hiː³,noŋ¹-Σ diːŋ¹ hiː³,noŋ¹+Σ+diːŋ¹+hiː³,n o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim071,mu:³,2.sg.1.pl.excl.fut.aff,hoŋ¹-muː³ ni¹teʔ³,hoŋ¹-Σ ni¹teʔ³,hoŋ¹+Σ+ni¹+teʔ³,h o ŋ ⁵ Σ n i ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim072,mu:³,2.sg.1.pl.excl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim073,mu:³,2.sg.1.pl.excl.fut.aff,noŋ¹-mu³ diːŋ¹ hiː³,noŋ¹-Σ diːŋ¹ hiː³,noŋ¹+Σ+diːŋ¹+hiː³,n o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim074,mu:³,2.pl.1.sg.fut.aff,hoŋ¹-muː³ nuʔ¹teʔ³,hoŋ¹-Σ nuʔ¹teʔ³,hoŋ¹+Σ+nuʔ¹teʔ³,h o ŋ ⁵ Σ n u ʔ ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim075,mu:³,2.pl.1.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim076,mu:³,2.pl.1.sg.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim077,mu:³,2.pl.1.sg.fut.aff,noŋ¹-mu³ diːŋ¹ hiː³,noŋ¹-Σ diːŋ¹ hiː³,noŋ¹+Σ+diːŋ¹+hiː³,n o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim078,mu:³,2.pl.1.sg.fut.aff,noŋ¹-mu³ diːŋ¹ uʔ³ hiː³,noŋ¹-Σ diːŋ¹ uʔ³ hiː³,noŋ¹+Σ+diːŋ¹+uʔ³+hiː³,n o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim079,mu:³,2.pl.1.pl.excl.fut.aff,hoŋ¹-muː³ nuʔ¹teʔ³,hoŋ¹-Σ nuʔ¹teʔ³,hoŋ¹+Σ+nuʔ¹teʔ³,h o ŋ ⁵ Σ n u ʔ ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim080,mu:³,2.pl.1.pl.excl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim081,mu:³,2.pl.1.pl.excl.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim082,mu:³,2.pl.1.pl.excl.fut.aff,noŋ¹-mu³ diːŋ¹ hiː³,noŋ¹-Σ diːŋ¹ hiː³,noŋ¹+Σ+diːŋ¹+hiː³,n o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim083,mu:³,2.pl.1.pl.excl.fut.aff,noŋ¹-mu³ diːŋ¹ uʔ³ hiː³,noŋ¹-Σ diːŋ¹ uʔ³ hiː³,noŋ¹+Σ+diːŋ¹+uʔ³+hiː³,n o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim084,mu:³,2.sg.3.sg.fut.aff,muː³ ni¹teʔ³,Σ ni¹teʔ³,Σ+ni¹+teʔ³,Σ n i ⁵ t e ʔ ¹,Σ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim085,mu:³,2.sg.3.sg.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim086,mu:³,2.sg.3.sg.fut.aff,na¹ mu³ diːŋ¹ hiː³,na¹ Σ diːŋ¹ hiː³,na¹+Σ+diːŋ¹+hiː³,n a ⁵ Σ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim087,mu:³,2.sg.3.pl.fut.aff,muː³ ni¹teʔ³,Σ ni¹teʔ³,Σ+ni¹+teʔ³,Σ n i ⁵ t e ʔ ¹,Σ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim088,mu:³,2.sg.3.pl.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim089,mu:³,2.sg.3.pl.fut.aff,na¹ mu³ diːŋ¹ hiː³,na¹ Σ diːŋ¹ hiː³,na¹+Σ+diːŋ¹+hiː³,n a ⁵ Σ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim090,mu:³,2.pl.3.sg.fut.aff,muː³ nuʔ¹teʔ³,Σ nuʔ¹teʔ³,Σ+nuʔ¹teʔ³,Σ n u ʔ ⁵ t e ʔ ¹,Σ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim091,mu:³,2.pl.3.sg.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim092,mu:³,2.pl.3.sg.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim093,mu:³,2.pl.3.sg.fut.aff,na¹ muː³ diːŋ¹ hiː³,na¹ Σ diːŋ¹ hiː³,na¹+Σ+diːŋ¹+hiː³,n a ⁵ Σ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim094,mu:³,2.pl.3.sg.fut.aff,na¹ muː³ diːŋ¹ uʔ³ hiː³,na¹ Σ diːŋ¹ uʔ³ hiː³,na¹+Σ+diːŋ¹+uʔ³+hiː³,n a ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim095,mu:³,2.pl.3.pl.fut.aff,muː³ nuʔ¹teʔ³,Σ nuʔ¹teʔ³,Σ+nuʔ¹teʔ³,Σ n u ʔ ⁵ t e ʔ ¹,Σ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim096,mu:³,2.pl.3.pl.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim097,mu:³,2.pl.3.pl.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim098,mu:³,2.pl.3.pl.fut.aff,na¹ muː³ diːŋ¹ hiː³,na¹ Σ diːŋ¹ hiː³,na¹+Σ+diːŋ¹+hiː³,n a ⁵ Σ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim099,mu:³,2.pl.3.pl.fut.aff,na¹ muː³ diːŋ¹ uʔ³ hiː³,na¹ Σ diːŋ¹ uʔ³ hiː³,na¹+Σ+diːŋ¹+uʔ³+hiː³,n a ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim100,pai²,3.sg.fut.aff,pai² in²teʔ¹,Σ in²teʔ¹,Σ+in²teʔ¹,Σ i n ³ t e ʔ ⁵,Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim101,pai²,3.sg.fut.aff,pai² diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim102,pai²,3.sg.fut.aff,a² pai² diːŋ¹ hiː³,a² Σ diːŋ¹ hiː³,a²+Σ+diːŋ¹+hiː³,a ³ Σ d ii ŋ ⁵ h ii ¹,a ³ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim103,pai²,3.pl.fut.aff,pai² un²teʔ¹,Σ un²teʔ¹,Σ+un²teʔ¹,Σ u n ³ t e ʔ ⁵,Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim104,pai²,3.pl.fut.aff,pai² diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim105,pai²,3.pl.fut.aff,pai² diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim106,pai²,3.pl.fut.aff,a² pai² diːŋ¹ hiː³,a² Σ diːŋ¹ hiː³,a²+Σ+diːŋ¹+hiː³,a ³ Σ d ii ŋ ⁵ h ii ¹,a ³ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim107,pai²,3.pl.fut.aff,a² pai² diːŋ¹ uʔ³ hiː³,a² Σ diːŋ¹ uʔ³ hiː³,a²+Σ+diːŋ¹+uʔ³+hiː³,a ³ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ³ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim108,mu:³,3.sg.1.sg.fut.aff,hoŋ¹-muː³ in²teʔ¹,hoŋ¹-Σ in²teʔ¹,hoŋ¹+Σ+in²teʔ¹,h o ŋ ⁵ Σ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim109,mu:³,3.sg.1.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim110,mu:³,3.sg.1.sg.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim111,mu:³,3.sg.1.pl.excl.fut.aff,hoŋ¹-muː³ in²teʔ¹,hoŋ¹-Σ in²teʔ¹,hoŋ¹+Σ+in²teʔ¹,h o ŋ ⁵ Σ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim112,mu:³,3.sg.1.pl.incl.fut.aff,hoŋ¹-muː³ in²teʔ¹,hoŋ¹-Σ in²teʔ¹,hoŋ¹+Σ+in²teʔ¹,h o ŋ ⁵ Σ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim113,mu:³,3.sg.1.pl.excl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim114,mu:³,3.sg.1.pl.incl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim115,mu:³,3.sg.1.pl.excl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim116,mu:³,3.sg.1.pl.incl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim117,mu:³,3.pl.1.sg.fut.aff,hoŋ¹-muː³ un²teʔ¹,hoŋ¹-Σ un²teʔ¹,hoŋ¹+Σ+un²teʔ¹,h o ŋ ⁵ Σ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim118,mu:³,3.pl.1.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim119,mu:³,3.pl.1.sg.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim120,mu:³,3.pl.1.sg.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim121,mu:³,3.pl.1.sg.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim122,mu:³,3.pl.1.pl.excl.fut.aff,hoŋ¹-muː³ un²teʔ¹,hoŋ¹-Σ un²teʔ¹,hoŋ¹+Σ+un²teʔ¹,h o ŋ ⁵ Σ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim123,mu:³,3.pl.1.pl.incl.fut.aff,hoŋ¹-muː³ un²teʔ¹,hoŋ¹-Σ un²teʔ¹,hoŋ¹+Σ+un²teʔ¹,h o ŋ ⁵ Σ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim124,mu:³,3.pl.1.pl.excl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim125,mu:³,3.pl.1.pl.excl.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim126,mu:³,3.pl.1.pl.incl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim127,mu:³,3.pl.1.pl.incl.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim128,mu:³,3.pl.1.pl.excl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim129,mu:³,3.pl.1.pl.excl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim130,mu:³,3.pl.1.pl.incl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim131,mu:³,3.pl.1.pl.incl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim132,mu:³,3.sg.2.sg.fut.aff,hoŋ¹-muː³ in²teʔ¹,hoŋ¹-Σ in²teʔ¹,hoŋ¹+Σ+in²teʔ¹,h o ŋ ⁵ Σ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim133,mu:³,3.sg.2.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim134,mu:³,3.sg.2.sg.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim135,mu:³,3.sg.2.pl.fut.aff,hoŋ¹-muː³ in²teʔ¹,hoŋ¹-Σ in²teʔ¹,hoŋ¹+Σ+in²teʔ¹,h o ŋ ⁵ Σ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim136,mu:³,3.sg.2.pl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim137,mu:³,3.sg.2.pl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim138,mu:³,3.pl.2.sg.fut.aff,hoŋ¹-muː³ un²teʔ¹,hoŋ¹-Σ un²teʔ¹,hoŋ¹+Σ+un²teʔ¹,h o ŋ ⁵ Σ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim139,mu:³,3.pl.2.sg.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim140,mu:³,3.pl.2.sg.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim141,mu:³,3.pl.2.sg.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim142,mu:³,3.pl.2.sg.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim143,mu:³,3.pl.2.pl.fut.aff,hoŋ¹-muː³ un²teʔ¹,hoŋ¹-Σ un²teʔ¹,hoŋ¹+Σ+un²teʔ¹,h o ŋ ⁵ Σ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim144,mu:³,3.pl.2.pl.fut.aff,hoŋ¹-mu³ diːŋ¹,hoŋ¹-Σ diːŋ¹,hoŋ¹+Σ+diːŋ¹,h o ŋ ⁵ Σ d ii ŋ ⁵,h o ŋ ⁵ + Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim145,mu:³,3.pl.2.pl.fut.aff,hoŋ¹-mu³ diːŋ¹ uʔ³,hoŋ¹-Σ diːŋ¹ uʔ³,hoŋ¹+Σ+diːŋ¹+uʔ³,h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim146,mu:³,3.pl.2.pl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ hiː³,a³ hoŋ¹-Σ diːŋ¹ hiː³,a³+hoŋ¹+Σ+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim147,mu:³,3.pl.2.pl.fut.aff,a³ hoŋ¹-mu³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim148,mu:³,3.sg.3.sg.fut.aff,muː³ in²teʔ¹,Σ in²teʔ¹,Σ+in²teʔ¹,Σ i n ³ t e ʔ ⁵,Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim149,mu:³,3.sg.3.sg.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim150,mu:³,3.sg.3.sg.fut.aff,a¹ mu³ diːŋ¹ hiː³,a¹ Σ diːŋ¹ hiː³,a¹+Σ+diːŋ¹+hiː³,a ⁵ Σ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim151,mu:³,3.sg.3.pl.fut.aff,muː³ in²teʔ¹,Σ in²teʔ¹,Σ+in²teʔ¹,Σ i n ³ t e ʔ ⁵,Σ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim152,mu:³,3.sg.3.pl.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim153,mu:³,3.sg.3.pl.fut.aff,a¹ mu³ diːŋ¹ hiː³,a¹ Σ diːŋ¹ hiː³,a¹+Σ+diːŋ¹+hiː³,a ⁵ Σ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim154,mu:³,3.pl.3.sg.fut.aff,muː³ un²teʔ¹,Σ un²teʔ¹,Σ+un²teʔ¹,Σ u n ³ t e ʔ ⁵,Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim155,mu:³,3.pl.3.sg.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim156,mu:³,3.pl.3.sg.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim157,mu:³,3.pl.3.sg.fut.aff,a¹ mu³ diːŋ¹ hiː³,a¹ Σ diːŋ¹ hiː³,a¹+Σ+diːŋ¹+hiː³,a ⁵ Σ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim158,mu:³,3.pl.3.sg.fut.aff,a¹ mu³ diːŋ¹ uʔ³ hiː³,a¹ Σ diːŋ¹ uʔ³ hiː³,a¹+Σ+diːŋ¹+uʔ³+hiː³,a ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim159,mu:³,3.pl.3.pl.fut.aff,muː³ un²teʔ¹,Σ un²teʔ¹,Σ+un²teʔ¹,Σ u n ³ t e ʔ ⁵,Σ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim160,mu:³,3.pl.3.pl.fut.aff,mu³ diːŋ¹,Σ diːŋ¹,Σ+diːŋ¹,Σ d ii ŋ ⁵,Σ + d ii ŋ ⁵,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim161,mu:³,3.pl.3.pl.fut.aff,mu³ diːŋ¹ uʔ³,Σ diːŋ¹ uʔ³,Σ+diːŋ¹+uʔ³,Σ d ii ŋ ⁵ u ʔ ¹,Σ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim162,mu:³,3.pl.3.pl.fut.aff,a¹ mu³ diːŋ¹ hiː³,a¹ Σ diːŋ¹ hiː³,a¹+Σ+diːŋ¹+hiː³,a ⁵ Σ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim163,mu:³,3.pl.3.pl.fut.aff,a¹ mu³ diːŋ¹ uʔ³ hiː³,a¹ Σ diːŋ¹ uʔ³ hiː³,a¹+Σ+diːŋ¹+uʔ³+hiː³,a ⁵ Σ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim164,pai²,1.sg.fut.neg,pai² kei¹ niŋ¹,Σ kei¹ niŋ¹,Σ+kei¹+n+iŋ¹,Σ k ei ⁵ n i ŋ ⁵,Σ + k ei ⁵ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim165,pai²,1.sg.fut.neg,pai² lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim166,pai²,1.sg.fut.neg,ka² pai² kei¹ diːŋ¹ hiː³,ka² Σ kei¹ diːŋ¹ hiː³,ka²+Σ+kei¹+diːŋ¹+hiː³,k a ³ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim167,pai²,1.sg.fut.neg,ka² pai² lou³ diːŋ¹ hiː³,ka² Σ lou³ diːŋ¹ hiː³,ka²+Σ+lou³+diːŋ¹+hiː³,k a ³ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim168,pai²,1.pl.excl.fut.neg,pai² kei¹ nuːŋ³,Σ kei¹ nuːŋ³,Σ+kei¹+nuːŋ³,Σ k ei ⁵ n uu ŋ ¹,Σ + k ei ⁵ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim169,pai²,1.pl.excl.fut.neg,pai² lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim170,pai²,1.pl.excl.fut.neg,pai² lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim171,pai²,1.pl.incl.fut.neg,pai² lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim172,pai²,1.pl.incl.fut.neg,pai² lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim173,pai²,1.pl.incl.fut.neg,pai² kei¹ niː¹,Σ kei¹ niː¹,Σ+kei¹+niː¹,Σ k ei ⁵ n ii ⁵,Σ + k ei ⁵ + n ii ⁵,informal,hort,,Zhou2025Tedim,nopage,tedim
+tedim174,pai²,1.pl.excl.fut.neg,ka² pai² kei¹ diːŋ¹ hiː³,ka² Σ kei¹ diːŋ¹ hiː³,ka²+Σ+kei¹+diːŋ¹+hiː³,k a ³ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim175,pai²,1.pl.excl.fut.neg,ka² pai² kei¹ diːŋ¹ uʔ³ hiː³,ka² Σ kei¹ diːŋ¹ uʔ³ hiː³,ka²+Σ+kei¹+diːŋ¹+uʔ³+hiː³,k a ³ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim176,pai²,1.pl.excl.fut.neg,ka² pai² lou³ diːŋ¹ hiː³,ka² Σ lou³ diːŋ¹ hiː³,ka²+Σ+lou³+diːŋ¹+hiː³,k a ³ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim177,pai²,1.pl.excl.fut.neg,ka² pai² lou³ diːŋ¹ uʔ³ hiː³,ka² Σ lou³ diːŋ¹ uʔ³ hiː³,ka²+Σ+lou³+diːŋ¹+uʔ³+hiː³,k a ³ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim178,pai²,1.pl.incl.fut.neg,i² pai² kei¹ diːŋ¹ hiː³,i² Σ kei¹ diːŋ¹ hiː³,i²+Σ+kei¹+diːŋ¹+hiː³,i ³ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,i ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim179,pai²,1.pl.incl.fut.neg,i² pai² lou³ diːŋ¹ hiː³,i² Σ lou³ diːŋ¹ hiː³,i²+Σ+lou³+diːŋ¹+hiː³,i ³ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,i ³ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim180,mu:³,1.sg.2.sg.fut.neg,hoŋ¹-mu³ kei¹ niŋ¹,hoŋ¹-Σ kei¹ niŋ¹,hoŋ¹+Σ+kei¹+n+iŋ¹,h o ŋ ⁵ Σ k ei ⁵ n i ŋ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim181,mu:³,1.sg.2.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim182,mu:³,1.sg.2.sg.fut.neg,koŋ¹-mu³ kei¹ diːŋ¹ hiː³,koŋ¹-Σ kei¹ diːŋ¹ hiː³,koŋ¹+Σ+kei¹+diːŋ¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim183,mu:³,1.sg.2.sg.fut.neg,koŋ¹-mu³ lou³ diːŋ¹ hiː³,koŋ¹-Σ lou³ diːŋ¹ hiː³,koŋ¹+Σ+lou³+diːŋ¹+hiː³,k o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim184,mu:³,1.sg.2.pl.fut.neg,hoŋ¹-mu³ kei¹ niŋ¹,hoŋ¹-Σ kei¹ niŋ¹,hoŋ¹+Σ+kei¹+n+iŋ¹,h o ŋ ⁵ Σ k ei ⁵ n i ŋ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim185,mu:³,1.sg.3.pl.fut.neg,mu³ kei¹ niŋ¹,Σ kei¹ niŋ¹,Σ+kei¹+n+iŋ¹,Σ k ei ⁵ n i ŋ ⁵,Σ + k ei ⁵ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim186,mu:³,1.sg.2.pl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim187,mu:³,1.sg.3.pl.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim188,mu:³,1.sg.2.pl.fut.neg,koŋ¹-mu³ kei¹ diːŋ¹ hiː³,koŋ¹-Σ kei¹ diːŋ¹ hiː³,koŋ¹+Σ+kei¹+diːŋ¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim189,mu:³,1.sg.2.pl.fut.neg,koŋ¹-mu³ lou³ diːŋ¹ hiː³,koŋ¹-Σ lou³ diːŋ¹ hiː³,koŋ¹+Σ+lou³+diːŋ¹+hiː³,k o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim190,mu:³,1.sg.3.pl.fut.neg,ka¹ mu³ kei¹ diːŋ¹ hiː³,ka¹ Σ kei¹ diːŋ¹ hiː³,ka¹+Σ+kei¹+diːŋ¹+hiː³,k a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim191,mu:³,1.sg.3.pl.fut.neg,ka¹ mu³ lou³ diːŋ¹ hiː³,ka¹ Σ lou³ diːŋ¹ hiː³,ka¹+Σ+lou³+diːŋ¹+hiː³,k a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim192,mu:³,1.pl.excl.2.sg.fut.neg,hoŋ¹-mu³ kei¹ nuːŋ³,hoŋ¹-Σ kei¹ nuːŋ³,hoŋ¹+Σ+kei¹+nuːŋ³,h o ŋ ⁵ Σ k ei ⁵ n uu ŋ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim193,mu:³,1.pl.excl.2.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim194,mu:³,1.pl.excl.2.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim195,mu:³,1.pl.excl.2.sg.fut.neg,koŋ¹-mu³ kei¹ diːŋ¹ hiː³,koŋ¹-Σ kei¹ diːŋ¹ hiː³,koŋ¹+Σ+kei¹+diːŋ¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim196,mu:³,1.pl.excl.2.sg.fut.neg,koŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,koŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,koŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,k o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim197,mu:³,1.pl.excl.2.sg.fut.neg,koŋ¹-mu³ lou³ diːŋ¹ hiː³,koŋ¹-Σ lou³ diːŋ¹ hiː³,koŋ¹+Σ+lou³+diːŋ¹+hiː³,k o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim198,mu:³,1.pl.excl.2.sg.fut.neg,koŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,koŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,koŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,k o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim199,mu:³,1.pl.excl.2.pl.fut.neg,hoŋ¹-mu³ kei¹ nuːŋ³,hoŋ¹-Σ kei¹ nuːŋ³,hoŋ¹+Σ+kei¹+nuːŋ³,h o ŋ ⁵ Σ k ei ⁵ n uu ŋ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim200,mu:³,1.pl.excl.2.pl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim201,mu:³,1.pl.excl.2.pl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim202,mu:³,1.pl.excl.2.pl.fut.neg,koŋ¹-mu³ kei¹ diːŋ¹ hiː³,koŋ¹-Σ kei¹ diːŋ¹ hiː³,koŋ¹+Σ+kei¹+diːŋ¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim203,mu:³,1.pl.excl.2.pl.fut.neg,koŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,koŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,koŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,k o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim204,mu:³,1.pl.excl.2.pl.fut.neg,koŋ¹-mu³ lou³ diːŋ¹ hiː³,koŋ¹-Σ lou³ diːŋ¹ hiː³,koŋ¹+Σ+lou³+diːŋ¹+hiː³,k o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim205,mu:³,1.pl.excl.2.pl.fut.neg,koŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,koŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,koŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,k o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim206,mu:³,1.sg.3.sg.fut.neg,mu³ kei¹ niŋ¹,Σ kei¹ niŋ¹,Σ+kei¹+n+iŋ¹,Σ k ei ⁵ n i ŋ ⁵,Σ + k ei ⁵ + n + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim207,mu:³,1.sg.3.sg.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim208,mu:³,1.sg.3.sg.fut.neg,ka¹ mu³ kei¹ diːŋ¹ hiː³,ka¹ Σ kei¹ diːŋ¹ hiː³,ka¹+Σ+kei¹+diːŋ¹+hiː³,k a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim209,mu:³,1.sg.3.sg.fut.neg,ka¹ mu³ lou³ diːŋ¹ hiː³,ka¹ Σ lou³ diːŋ¹ hiː³,ka¹+Σ+lou³+diːŋ¹+hiː³,k a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim210,mu:³,1.pl.excl.3.sg.fut.neg,mu³ kei¹ nuːŋ³,Σ kei¹ nuːŋ³,Σ+kei¹+nuːŋ³,Σ k ei ⁵ n uu ŋ ¹,Σ + k ei ⁵ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim211,mu:³,1.pl.excl.3.sg.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim212,mu:³,1.pl.excl.3.sg.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim213,mu:³,1.pl.incl.3.sg.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim214,mu:³,1.pl.incl.3.sg.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim215,mu:³,1.pl.incl.3.sg.fut.neg,mu³ kei¹ niː³,Σ kei¹ niː³,Σ+kei¹+niː³,Σ k ei ⁵ n ii ¹,Σ + k ei ⁵ + n ii ¹,informal,hort,,Zhou2025Tedim,nopage,tedim
+tedim216,mu:³,1.pl.excl.3.sg.fut.neg,ka¹ mu³ kei¹ diːŋ¹ hiː³,ka¹ Σ kei¹ diːŋ¹ hiː³,ka¹+Σ+kei¹+diːŋ¹+hiː³,k a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim217,mu:³,1.pl.excl.3.sg.fut.neg,ka¹ mu³ kei¹ diːŋ¹ uʔ³ hiː³,ka¹ Σ kei¹ diːŋ¹ uʔ³ hiː³,ka¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,k a ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim218,mu:³,1.pl.excl.3.sg.fut.neg,ka¹ mu³ lou³ diːŋ¹ hiː³,ka¹ Σ lou³ diːŋ¹ hiː³,ka¹+Σ+lou³+diːŋ¹+hiː³,k a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim219,mu:³,1.pl.excl.3.sg.fut.neg,ka¹ mu³ lou³ diːŋ¹ uʔ³ hiː³,ka¹ Σ lou³ diːŋ¹ uʔ³ hiː³,ka¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,k a ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim220,mu:³,1.pl.incl.3.sg.fut.neg,i¹ mu³ kei¹ diːŋ¹ hiː³,i¹ Σ kei¹ diːŋ¹ hiː³,i¹+Σ+kei¹+diːŋ¹+hiː³,i ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,i ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim221,mu:³,1.pl.incl.3.sg.fut.neg,i¹ mu³ lou³ diːŋ¹ hiː³,i¹ Σ lou³ diːŋ¹ hiː³,i¹+Σ+lou³+diːŋ¹+hiː³,i ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,i ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim222,mu:³,1.pl.excl.3.pl.fut.neg,mu³ kei¹ nuːŋ³,Σ kei¹ nuːŋ³,Σ+kei¹+nuːŋ³,Σ k ei ⁵ n uu ŋ ¹,Σ + k ei ⁵ + n uu ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim223,mu:³,1.pl.excl.3.pl.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim224,mu:³,1.pl.excl.3.pl.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim225,mu:³,1.pl.incl.3.pl.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim226,mu:³,1.pl.incl.3.pl.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim227,mu:³,1.pl.incl.3.pl.fut.neg,mu³ kei¹ niː³,Σ kei¹ niː³,Σ+kei¹+niː³,Σ k ei ⁵ n ii ¹,Σ + k ei ⁵ + n ii ¹,informal,hort,,Zhou2025Tedim,nopage,tedim
+tedim228,mu:³,1.pl.excl.3.pl.fut.neg,ka¹ mu³ kei¹ diːŋ¹ hiː³,ka¹ Σ kei¹ diːŋ¹ hiː³,ka¹+Σ+kei¹+diːŋ¹+hiː³,k a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim229,mu:³,1.pl.excl.3.pl.fut.neg,ka¹ mu³ kei¹ diːŋ¹ uʔ³ hiː³,ka¹ Σ kei¹ diːŋ¹ uʔ³ hiː³,ka¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,k a ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim230,mu:³,1.pl.excl.3.pl.fut.neg,ka¹ mu³ lou³ diːŋ¹ hiː³,ka¹ Σ lou³ diːŋ¹ hiː³,ka¹+Σ+lou³+diːŋ¹+hiː³,k a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,k a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim231,mu:³,1.pl.excl.3.pl.fut.neg,ka¹ mu³ lou³ diːŋ¹ uʔ³ hiː³,ka¹ Σ lou³ diːŋ¹ uʔ³ hiː³,ka¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,k a ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim232,mu:³,1.pl.incl.3.pl.fut.neg,i¹ mu³ kei¹ diːŋ¹ hiː³,i¹ Σ kei¹ diːŋ¹ hiː³,i¹+Σ+kei¹+diːŋ¹+hiː³,i ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,i ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim233,mu:³,1.pl.incl.3.pl.fut.neg,i¹ mu³ lou³ diːŋ¹ hiː³,i¹ Σ lou³ diːŋ¹ hiː³,i¹+Σ+lou³+diːŋ¹+hiː³,i ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,i ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim234,pai²,2.sg.fut.neg,pai² kei¹ ni¹teʔ³,Σ kei¹ ni¹teʔ³,Σ+kei¹+ni¹+teʔ³,Σ k ei ⁵ n i ⁵ t e ʔ ¹,Σ + k ei ⁵ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim235,pai²,2.sg.fut.neg,pai² lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim236,pai²,2.sg.fut.neg,na² pai² kei¹ diːŋ¹ hiː³,na² Σ kei¹ diːŋ¹ hiː³,na²+Σ+kei¹+diːŋ¹+hiː³,n a ³ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim237,pai²,2.sg.fut.neg,na² pai² lou³ diːŋ¹ hiː³,na² Σ lou³ diːŋ¹ hiː³,na²+Σ+lou³+diːŋ¹+hiː³,n a ³ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim238,pai²,2.pl.fut.neg,pai² kei¹ nu¹teʔ³,Σ kei¹ nu¹teʔ³,Σ+kei¹+nu¹teʔ³,Σ k ei ⁵ n u ⁵ t e ʔ ¹,Σ + k ei ⁵ + n u ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim239,pai²,2.pl.fut.neg,pai² lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim240,pai²,2.pl.fut.neg,pai² lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim241,pai²,2.pl.fut.neg,na² pai² kei¹ diːŋ¹ hiː³,na² Σ kei¹ diːŋ¹ hiː³,na²+Σ+kei¹+diːŋ¹+hiː³,n a ³ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim242,pai²,2.pl.fut.neg,na² pai² kei¹ diːŋ¹ uʔ³ hiː³,na² Σ kei¹ diːŋ¹ uʔ³ hiː³,na²+Σ+kei¹+diːŋ¹+uʔ³+hiː³,n a ³ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim243,pai²,2.pl.fut.neg,na² pai² lou³ diːŋ¹ hiː³,na² Σ lou³ diːŋ¹ hiː³,na²+Σ+lou³+diːŋ¹+hiː³,n a ³ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim244,pai²,2.pl.fut.neg,na² pai² lou³ diːŋ¹ uʔ³ hiː³,na² Σ lou³ diːŋ¹ uʔ³ hiː³,na²+Σ+lou³+diːŋ¹+uʔ³+hiː³,n a ³ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim245,mu:³,2.sg.1.sg.fut.neg,hoŋ¹-muː³ kei¹ ni¹teʔ³,hoŋ¹-Σ kei¹ ni¹teʔ³,hoŋ¹+Σ+kei¹+ni¹+teʔ³,h o ŋ ⁵ Σ k ei ⁵ n i ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim246,mu:³,2.sg.1.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim247,mu:³,2.sg.1.sg.fut.neg,noŋ¹-mu³ kei¹ diːŋ¹ hiː³,noŋ¹-Σ kei¹ diːŋ¹ hiː³,noŋ¹+Σ+kei¹+diːŋ¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim248,mu:³,2.sg.1.sg.fut.neg,noŋ¹-mu³ lou³ diːŋ¹ hiː³,noŋ¹-Σ lou³ diːŋ¹ hiː³,noŋ¹+Σ+lou³+diːŋ¹+hiː³,n o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim249,mu:³,2.sg.1.pl.excl.fut.neg,hoŋ¹-muː³ kei¹ ni¹teʔ³,hoŋ¹-Σ kei¹ ni¹teʔ³,hoŋ¹+Σ+kei¹+ni¹+teʔ³,h o ŋ ⁵ Σ k ei ⁵ n i ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim250,mu:³,2.sg.1.pl.excl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim251,mu:³,2.sg.1.pl.excl.fut.neg,noŋ¹-mu³ kei¹ diːŋ¹ hiː³,noŋ¹-Σ kei¹ diːŋ¹ hiː³,noŋ¹+Σ+kei¹+diːŋ¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim252,mu:³,2.sg.1.pl.excl.fut.neg,noŋ¹-mu³ lou³ diːŋ¹ hiː³,noŋ¹-Σ lou³ diːŋ¹ hiː³,noŋ¹+Σ+lou³+diːŋ¹+hiː³,n o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim253,mu:³,2.pl.1.sg.fut.neg,hoŋ¹-mu³ kei¹ nuʔ¹teʔ³,hoŋ¹-Σ kei¹ nuʔ¹teʔ³,hoŋ¹+Σ+kei¹+nuʔ¹teʔ³,h o ŋ ⁵ Σ k ei ⁵ n u ʔ ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim254,mu:³,2.pl.1.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim255,mu:³,2.pl.1.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim256,mu:³,2.pl.1.sg.fut.neg,noŋ¹-mu³ kei¹ diːŋ¹ hiː³,noŋ¹-Σ kei¹ diːŋ¹ hiː³,noŋ¹+Σ+kei¹+diːŋ¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim257,mu:³,2.pl.1.sg.fut.neg,noŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,noŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,noŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,n o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim258,mu:³,2.pl.1.sg.fut.neg,noŋ¹-mu³ lou³ diːŋ¹ hiː³,noŋ¹-Σ lou³ diːŋ¹ hiː³,noŋ¹+Σ+lou³+diːŋ¹+hiː³,n o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim259,mu:³,2.pl.1.sg.fut.neg,noŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,noŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,noŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,n o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim260,mu:³,2.pl.1.pl.excl.fut.neg,hoŋ¹-mu³ kei¹ nuʔ¹teʔ³,hoŋ¹-Σ kei¹ nuʔ¹teʔ³,hoŋ¹+Σ+kei¹+nuʔ¹teʔ³,h o ŋ ⁵ Σ k ei ⁵ n u ʔ ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim261,mu:³,2.pl.1.pl.excl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim262,mu:³,2.pl.1.pl.excl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim263,mu:³,2.pl.1.pl.excl.fut.neg,noŋ¹-mu³ kei¹ diːŋ¹ hiː³,noŋ¹-Σ kei¹ diːŋ¹ hiː³,noŋ¹+Σ+kei¹+diːŋ¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim264,mu:³,2.pl.1.pl.excl.fut.neg,noŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,noŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,noŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,n o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim265,mu:³,2.pl.1.pl.excl.fut.neg,noŋ¹-mu³ lou³ diːŋ¹ hiː³,noŋ¹-Σ lou³ diːŋ¹ hiː³,noŋ¹+Σ+lou³+diːŋ¹+hiː³,n o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim266,mu:³,2.pl.1.pl.excl.fut.neg,noŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,noŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,noŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,n o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim267,mu:³,2.sg.3.sg.fut.neg,mu³ kei¹ ni¹teʔ³,Σ kei¹ ni¹teʔ³,Σ+kei¹+ni¹+teʔ³,Σ k ei ⁵ n i ⁵ t e ʔ ¹,Σ + k ei ⁵ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim268,mu:³,2.sg.3.sg.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim269,mu:³,2.sg.3.sg.fut.neg,na¹ mu³ kei¹ diːŋ¹ hiː³,na¹ Σ kei¹ diːŋ¹ hiː³,na¹+Σ+kei¹+diːŋ¹+hiː³,n a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim270,mu:³,2.sg.3.sg.fut.neg,na¹ mu³ lou³ diːŋ¹ hiː³,na¹ Σ lou³ diːŋ¹ hiː³,na¹+Σ+lou³+diːŋ¹+hiː³,n a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim271,mu:³,2.sg.3.pl.fut.neg,mu³ kei¹ ni¹teʔ³,Σ kei¹ ni¹teʔ³,Σ+kei¹+ni¹+teʔ³,Σ k ei ⁵ n i ⁵ t e ʔ ¹,Σ + k ei ⁵ + n i ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim272,mu:³,2.sg.3.pl.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim273,mu:³,2.sg.3.pl.fut.neg,na¹ mu³ kei¹ diːŋ¹ hiː³,na¹ Σ kei¹ diːŋ¹ hiː³,na¹+Σ+kei¹+diːŋ¹+hiː³,n a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim274,mu:³,2.sg.3.pl.fut.neg,na¹ mu³ lou³ diːŋ¹ hiː³,na¹ Σ lou³ diːŋ¹ hiː³,na¹+Σ+lou³+diːŋ¹+hiː³,n a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim275,mu:³,2.pl.3.sg.fut.neg,mu³ kei¹ nuʔ¹teʔ³,Σ kei¹ nuʔ¹teʔ³,Σ+kei¹+nuʔ¹teʔ³,Σ k ei ⁵ n u ʔ ⁵ t e ʔ ¹,Σ + k ei ⁵ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim276,mu:³,2.pl.3.sg.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim277,mu:³,2.pl.3.sg.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim278,mu:³,2.pl.3.sg.fut.neg,na¹ mu³ kei¹ diːŋ¹ hiː³,na¹ Σ kei¹ diːŋ¹ hiː³,na¹+Σ+kei¹+diːŋ¹+hiː³,n a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim279,mu:³,2.pl.3.sg.fut.neg,na¹ mu³ kei¹ diːŋ¹ uʔ³ hiː³,na¹ Σ kei¹ diːŋ¹ uʔ³ hiː³,na¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,n a ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim280,mu:³,2.pl.3.sg.fut.neg,na¹ mu³ lou³ diːŋ¹ hiː³,na¹ Σ lou³ diːŋ¹ hiː³,na¹+Σ+lou³+diːŋ¹+hiː³,n a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim281,mu:³,2.pl.3.sg.fut.neg,na¹ mu³ lou³ diːŋ¹ uʔ³ hiː³,na¹ Σ lou³ diːŋ¹ uʔ³ hiː³,na¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,n a ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim282,mu:³,2.pl.3.pl.fut.neg,mu³ kei¹ nuʔ¹teʔ³,Σ kei¹ nuʔ¹teʔ³,Σ+kei¹+nuʔ¹teʔ³,Σ k ei ⁵ n u ʔ ⁵ t e ʔ ¹,Σ + k ei ⁵ + n u ʔ ⁵ t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim283,mu:³,2.pl.3.pl.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim284,mu:³,2.pl.3.pl.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim285,mu:³,2.pl.3.pl.fut.neg,na¹ mu³ kei¹ diːŋ¹ hiː³,na¹ Σ kei¹ diːŋ¹ hiː³,na¹+Σ+kei¹+diːŋ¹+hiː³,n a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim286,mu:³,2.pl.3.pl.fut.neg,na¹ mu³ kei¹ diːŋ¹ uʔ³ hiː³,na¹ Σ kei¹ diːŋ¹ uʔ³ hiː³,na¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,n a ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim287,mu:³,2.pl.3.pl.fut.neg,na¹ mu³ lou³ diːŋ¹ hiː³,na¹ Σ lou³ diːŋ¹ hiː³,na¹+Σ+lou³+diːŋ¹+hiː³,n a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,n a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim288,mu:³,2.pl.3.pl.fut.neg,na¹ mu³ lou³ diːŋ¹ uʔ³ hiː³,na¹ Σ lou³ diːŋ¹ uʔ³ hiː³,na¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,n a ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim289,pai²,3.sg.fut.neg,pai² kei¹ in²teʔ¹,Σ kei¹ in²teʔ¹,Σ+kei¹+in²teʔ¹,Σ k ei ⁵ i n ³ t e ʔ ⁵,Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim290,pai²,3.sg.fut.neg,pai² lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim291,pai²,3.sg.fut.neg,a² pai² kei¹ diːŋ¹ hiː³,a² Σ kei¹ diːŋ¹ hiː³,a²+Σ+kei¹+diːŋ¹+hiː³,a ³ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim292,pai²,3.sg.fut.neg,a² pai² lou³ diːŋ¹ hiː³,a² Σ lou³ diːŋ¹ hiː³,a²+Σ+lou³+diːŋ¹+hiː³,a ³ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim293,pai²,3.pl.fut.neg,pai² kei¹ un²teʔ¹,Σ kei¹ un²teʔ¹,Σ+kei¹+un²teʔ¹,Σ k ei ⁵ u n ³ t e ʔ ⁵,Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim294,pai²,3.pl.fut.neg,pai² lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim295,pai²,3.pl.fut.neg,pai² lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim296,pai²,3.pl.fut.neg,a² pai² kei¹ diːŋ¹ hiː³,a² Σ kei¹ diːŋ¹ hiː³,a²+Σ+kei¹+diːŋ¹+hiː³,a ³ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim297,pai²,3.pl.fut.neg,a² pai² kei¹ diːŋ¹ uʔ³ hiː³,a² Σ kei¹ diːŋ¹ uʔ³ hiː³,a²+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ³ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ³ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim298,pai²,3.pl.fut.neg,a² pai² lou³ diːŋ¹ hiː³,a² Σ lou³ diːŋ¹ hiː³,a²+Σ+lou³+diːŋ¹+hiː³,a ³ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim299,pai²,3.pl.fut.neg,a² pai² lou³ diːŋ¹ uʔ³ hiː³,a² Σ lou³ diːŋ¹ uʔ³ hiː³,a²+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ³ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ³ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim300,mu:³,3.sg.1.sg.fut.neg,hoŋ¹-mu³ kei¹ in²teʔ¹,hoŋ¹-Σ kei¹ in²teʔ¹,hoŋ¹+Σ+kei¹+in²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim301,mu:³,3.sg.1.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim302,mu:³,3.sg.1.sg.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim303,mu:³,3.sg.1.sg.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim304,mu:³,3.sg.1.pl.excl.fut.neg,hoŋ¹-mu³ kei¹ in²teʔ¹,hoŋ¹-Σ kei¹ in²teʔ¹,hoŋ¹+Σ+kei¹+in²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim305,mu:³,3.sg.1.pl.incl.fut.neg,hoŋ¹-mu³ kei¹ in²teʔ¹,hoŋ¹-Σ kei¹ in²teʔ¹,hoŋ¹+Σ+kei¹+in²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim306,mu:³,3.sg.1.pl.excl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim307,mu:³,3.sg.1.pl.incl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim308,mu:³,3.sg.1.pl.excl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim309,mu:³,3.sg.1.pl.excl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim310,mu:³,3.sg.1.pl.incl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim311,mu:³,3.sg.1.pl.incl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim312,mu:³,3.pl.1.sg.fut.neg,hoŋ¹-mu³ kei¹ un²teʔ¹,hoŋ¹-Σ kei¹ un²teʔ¹,hoŋ¹+Σ+kei¹+un²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim313,mu:³,3.pl.1.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim314,mu:³,3.pl.1.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim315,mu:³,3.pl.1.sg.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim316,mu:³,3.pl.1.sg.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim317,mu:³,3.pl.1.sg.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim318,mu:³,3.pl.1.sg.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim319,mu:³,3.pl.1.pl.excl.fut.neg,hoŋ¹-mu³ kei¹ un²teʔ¹,hoŋ¹-Σ kei¹ un²teʔ¹,hoŋ¹+Σ+kei¹+un²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim320,mu:³,3.pl.1.pl.incl.fut.neg,hoŋ¹-mu³ kei¹ un²teʔ¹,hoŋ¹-Σ kei¹ un²teʔ¹,hoŋ¹+Σ+kei¹+un²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim321,mu:³,3.pl.1.pl.excl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim322,mu:³,3.pl.1.pl.excl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim323,mu:³,3.pl.1.pl.incl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim324,mu:³,3.pl.1.pl.incl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim325,mu:³,3.pl.1.pl.excl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim326,mu:³,3.pl.1.pl.excl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim327,mu:³,3.pl.1.pl.excl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim328,mu:³,3.pl.1.pl.excl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim329,mu:³,3.pl.1.pl.incl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim330,mu:³,3.pl.1.pl.incl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim331,mu:³,3.pl.1.pl.incl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim332,mu:³,3.pl.1.pl.incl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim333,mu:³,3.sg.2.sg.fut.neg,hoŋ¹-mu³ kei¹ in²teʔ¹,hoŋ¹-Σ kei¹ in²teʔ¹,hoŋ¹+Σ+kei¹+in²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim334,mu:³,3.sg.2.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim335,mu:³,3.sg.2.sg.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim336,mu:³,3.sg.2.sg.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim337,mu:³,3.sg.2.pl.fut.neg,hoŋ¹-mu³ kei¹ in²teʔ¹,hoŋ¹-Σ kei¹ in²teʔ¹,hoŋ¹+Σ+kei¹+in²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ i n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim338,mu:³,3.sg.2.pl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim339,mu:³,3.sg.2.pl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim340,mu:³,3.sg.2.pl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim341,mu:³,3.pl.2.sg.fut.neg,hoŋ¹-mu³ kei¹ un²teʔ¹,hoŋ¹-Σ kei¹ un²teʔ¹,hoŋ¹+Σ+kei¹+un²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim342,mu:³,3.pl.2.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim343,mu:³,3.pl.2.sg.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim344,mu:³,3.pl.2.sg.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim345,mu:³,3.pl.2.sg.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim346,mu:³,3.pl.2.sg.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim347,mu:³,3.pl.2.sg.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim348,mu:³,3.pl.2.pl.fut.neg,hoŋ¹-mu³ kei¹ un²teʔ¹,hoŋ¹-Σ kei¹ un²teʔ¹,hoŋ¹+Σ+kei¹+un²teʔ¹,h o ŋ ⁵ Σ k ei ⁵ u n ³ t e ʔ ⁵,h o ŋ ⁵ + Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim349,mu:³,3.pl.2.pl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹,hoŋ¹-Σ lou³ diːŋ¹,hoŋ¹+Σ+lou³+diːŋ¹,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim350,mu:³,3.pl.2.pl.fut.neg,hoŋ¹-mu³ lou³ diːŋ¹ uʔ³,hoŋ¹-Σ lou³ diːŋ¹ uʔ³,hoŋ¹+Σ+lou³+diːŋ¹+uʔ³,h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim351,mu:³,3.pl.2.pl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim352,mu:³,3.pl.2.pl.fut.neg,a³ hoŋ¹-mu³ kei¹ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim353,mu:³,3.pl.2.pl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim354,mu:³,3.pl.2.pl.fut.neg,a³ hoŋ¹-mu³ lou³ diːŋ¹ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ diːŋ¹ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim355,mu:³,3.sg.3.sg.fut.neg,mu³ kei¹ in²teʔ¹,Σ kei¹ in²teʔ¹,Σ+kei¹+in²teʔ¹,Σ k ei ⁵ i n ³ t e ʔ ⁵,Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim356,mu:³,3.sg.3.sg.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim357,mu:³,3.sg.3.sg.fut.neg,a¹ mu³ kei¹ diːŋ¹ hiː³,a¹ Σ kei¹ diːŋ¹ hiː³,a¹+Σ+kei¹+diːŋ¹+hiː³,a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim358,mu:³,3.sg.3.sg.fut.neg,a¹ mu³ lou³ diːŋ¹ hiː³,a¹ Σ lou³ diːŋ¹ hiː³,a¹+Σ+lou³+diːŋ¹+hiː³,a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim359,mu:³,3.sg.3.pl.fut.neg,mu³ kei¹ in² teʔ³,Σ kei¹ in² teʔ³,Σ+kei¹+in²teʔ¹,Σ k ei ⁵ i n ³ t e ʔ ⁵,Σ + k ei ⁵ + i n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim360,mu:³,3.sg.3.pl.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim361,mu:³,3.sg.3.pl.fut.neg,a¹ mu³ kei¹ diːŋ¹ hiː³,a¹ Σ kei¹ diːŋ¹ hiː³,a¹+Σ+kei¹+diːŋ¹+hiː³,a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim362,mu:³,3.sg.3.pl.fut.neg,a¹ mu³ lou³ diːŋ¹ hiː³,a¹ Σ lou³ diːŋ¹ hiː³,a¹+Σ+lou³+diːŋ¹+hiː³,a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim363,mu:³,3.pl.3.sg.fut.neg,mu³ kei¹ un²teʔ¹,Σ kei¹ un²teʔ¹,Σ+kei¹+un²teʔ¹,Σ k ei ⁵ u n ³ t e ʔ ⁵,Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim364,mu:³,3.pl.3.sg.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim365,mu:³,3.pl.3.sg.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim366,mu:³,3.pl.3.sg.fut.neg,a¹ mu³ kei¹ diːŋ¹ hiː³,a¹ Σ kei¹ diːŋ¹ hiː³,a¹+Σ+kei¹+diːŋ¹+hiː³,a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim367,mu:³,3.pl.3.sg.fut.neg,a¹ mu³ kei¹ diːŋ¹ uʔ³ hiː³,a¹ Σ kei¹ diːŋ¹ uʔ³ hiː³,a¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim368,mu:³,3.pl.3.sg.fut.neg,a¹ mu³ lou³ diːŋ¹ hiː³,a¹ Σ lou³ diːŋ¹ hiː³,a¹+Σ+lou³+diːŋ¹+hiː³,a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim369,mu:³,3.pl.3.sg.fut.neg,a¹ mu³ lou³ diːŋ¹ uʔ³ hiː³,a¹ Σ lou³ diːŋ¹ uʔ³ hiː³,a¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim370,mu:³,3.pl.3.pl.fut.neg,mu³ kei¹ un²teʔ¹,Σ kei¹ un²teʔ¹,Σ+kei¹+un²teʔ¹,Σ k ei ⁵ u n ³ t e ʔ ⁵,Σ + k ei ⁵ + u n ³ t e ʔ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim371,mu:³,3.pl.3.pl.fut.neg,mu³ lou³ diːŋ¹,Σ lou³ diːŋ¹,Σ+lou³+diːŋ¹,Σ l ou ¹ d ii ŋ ⁵,Σ + l ou ¹ + d ii ŋ ⁵,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim372,mu:³,3.pl.3.pl.fut.neg,mu³ lou³ diːŋ¹ uʔ³,Σ lou³ diːŋ¹ uʔ³,Σ+lou³+diːŋ¹+uʔ³,Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹,Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim373,mu:³,3.pl.3.pl.fut.neg,a¹ mu³ kei¹ diːŋ¹ hiː³,a¹ Σ kei¹ diːŋ¹ hiː³,a¹+Σ+kei¹+diːŋ¹+hiː³,a ⁵ Σ k ei ⁵ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim374,mu:³,3.pl.3.pl.fut.neg,a¹ mu³ kei¹ diːŋ¹ uʔ³ hiː³,a¹ Σ kei¹ diːŋ¹ uʔ³ hiː³,a¹+Σ+kei¹+diːŋ¹+uʔ³+hiː³,a ⁵ Σ k ei ⁵ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + k ei ⁵ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim375,mu:³,3.pl.3.pl.fut.neg,a¹ mu³ lou³ diːŋ¹ hiː³,a¹ Σ lou³ diːŋ¹ hiː³,a¹+Σ+lou³+diːŋ¹+hiː³,a ⁵ Σ l ou ¹ d ii ŋ ⁵ h ii ¹,a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim376,mu:³,3.pl.3.pl.fut.neg,a¹ mu³ lou³ diːŋ¹ uʔ³ hiː³,a¹ Σ lou³ diːŋ¹ uʔ³ hiː³,a¹+Σ+lou³+diːŋ¹+uʔ³+hiː³,a ⁵ Σ l ou ¹ d ii ŋ ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + d ii ŋ ⁵ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim377,pai²,1.sg.nfut.aff,pai² iŋ³,Σ iŋ³,Σ+iŋ³,Σ i ŋ ¹,Σ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim378,pai²,1.sg.nfut.aff,pai²,Σ,Σ,Σ,Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim379,pai²,1.sg.nfut.aff,ka² pai² hiː³,ka² Σ hiː³,ka²+Σ+hiː³,k a ³ Σ h ii ¹,k a ³ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim380,pai²,1.pl.excl.nfut.aff,pai² uŋ³,Σ uŋ³,Σ+uŋ³,Σ u ŋ ¹,Σ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim381,pai²,1.pl.incl.nfut.aff,pai² haŋ³,Σ haŋ³,Σ+haŋ³,Σ h a ŋ ¹,Σ + h a ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim382,pai²,1.pl.excl.nfut.aff,pai²,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim383,pai²,1.pl.excl.nfut.aff,pai² uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim384,pai²,1.pl.incl.nfut.aff,pai²,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim385,pai²,1.pl.incl.nfut.aff,pai² uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim386,pai²,1.pl.excl.nfut.aff,ka² pai² hiː³,ka² Σ hiː³,ka²+Σ+hiː³,k a ³ Σ h ii ¹,k a ³ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim387,pai²,1.pl.excl.nfut.aff,ka² pai² uʔ³ hiː³,ka² Σ uʔ³ hiː³,ka²+Σ+uʔ³+hiː³,k a ³ Σ u ʔ ¹ h ii ¹,k a ³ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim388,pai²,1.pl.incl.nfut.aff,i² pai² hiː³,i² Σ hiː³,i²+Σ+hiː³,i ³ Σ h ii ¹,i ³ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim389,mu:³,1.sg.2.sg.nfut.aff,hoŋ¹-muː³ iŋ³,hoŋ¹-Σ iŋ³,hoŋ¹+Σ+iŋ³,h o ŋ ⁵ Σ i ŋ ¹,h o ŋ ⁵ + Σ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim390,mu:³,1.sg.2.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim391,mu:³,1.sg.2.sg.nfut.aff,koŋ¹-muː³ hiː³,koŋ¹-Σ hiː³,koŋ¹+Σ+hiː³,k o ŋ ⁵ Σ h ii ¹,k o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim392,mu:³,1.sg.2.pl.nfut.aff,hoŋ¹-muː³ iŋ³,hoŋ¹-Σ iŋ³,hoŋ¹+Σ+iŋ³,h o ŋ ⁵ Σ i ŋ ¹,h o ŋ ⁵ + Σ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim393,mu:³,1.sg.2.pl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim394,mu:³,1.sg.2.pl.nfut.aff,koŋ¹-muː³ hiː³,koŋ¹-Σ hiː³,koŋ¹+Σ+hiː³,k o ŋ ⁵ Σ h ii ¹,k o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim395,mu:³,1.pl.excl.2.sg.nfut.aff,hoŋ¹-muː³ uŋ³,hoŋ¹-Σ uŋ³,hoŋ¹+Σ+uŋ³,h o ŋ ⁵ Σ u ŋ ¹,h o ŋ ⁵ + Σ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim396,mu:³,1.pl.excl.2.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim397,mu:³,1.pl.excl.2.sg.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim398,mu:³,1.pl.excl.2.sg.nfut.aff,koŋ¹-muː³ hiː³,koŋ¹-Σ hiː³,koŋ¹+Σ+hiː³,k o ŋ ⁵ Σ h ii ¹,k o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim399,mu:³,1.pl.excl.2.sg.nfut.aff,koŋ¹-muː³ uʔ³ hiː³,koŋ¹-Σ uʔ³ hiː³,koŋ¹+Σ+uʔ³+hiː³,k o ŋ ⁵ Σ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim400,mu:³,1.pl.excl.2.pl.nfut.aff,hoŋ¹-muː³ uŋ³,hoŋ¹-Σ uŋ³,hoŋ¹+Σ+uŋ³,h o ŋ ⁵ Σ u ŋ ¹,h o ŋ ⁵ + Σ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim401,mu:³,1.pl.excl.2.pl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim402,mu:³,1.pl.excl.2.pl.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim403,mu:³,1.pl.excl.2.pl.nfut.aff,koŋ¹-muː³ hiː³,koŋ¹-Σ hiː³,koŋ¹+Σ+hiː³,k o ŋ ⁵ Σ h ii ¹,k o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim404,mu:³,1.pl.excl.2.pl.nfut.aff,koŋ¹-muː³ uʔ³ hiː³,koŋ¹-Σ uʔ³ hiː³,koŋ¹+Σ+uʔ³+hiː³,k o ŋ ⁵ Σ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim405,mu:³,1.sg.3.sg.nfut.aff,muː³ iŋ³,Σ iŋ³,Σ+iŋ³,Σ i ŋ ¹,Σ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim406,mu:³,1.sg.3.sg.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim407,mu:³,1.sg.3.sg.nfut.aff,ka¹ muː³ hiː³,ka¹ Σ hiː³,ka¹+Σ+hiː³,k a ⁵ Σ h ii ¹,k a ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim408,mu:³,1.sg.3.pl.nfut.aff,muː³ iŋ³,Σ iŋ³,Σ+iŋ³,Σ i ŋ ¹,Σ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim409,mu:³,1.sg.3.pl.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim410,mu:³,1.sg.3.pl.nfut.aff,ka¹ muː³ hiː³,ka¹ Σ hiː³,ka¹+Σ+hiː³,k a ⁵ Σ h ii ¹,k a ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim411,mu:³,1.pl.excl.3.sg.nfut.aff,muː³ uŋ³,Σ uŋ³,Σ+uŋ³,Σ u ŋ ¹,Σ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim412,mu:³,1.pl.incl.3.sg.nfut.aff,muː³ haŋ³,Σ haŋ³,Σ+haŋ³,Σ h a ŋ ¹,Σ + h a ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim413,mu:³,1.pl.excl.3.sg.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim414,mu:³,1.pl.excl.3.sg.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim415,mu:³,1.pl.incl.3.sg.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim416,mu:³,1.pl.incl.3.sg.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim417,mu:³,1.pl.excl.3.sg.nfut.aff,ka¹ muː³ hiː³,ka¹ Σ hiː³,ka¹+Σ+hiː³,k a ⁵ Σ h ii ¹,k a ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim418,mu:³,1.pl.excl.3.sg.nfut.aff,ka¹ muː³ uʔ³ hiː³,ka¹ Σ uʔ³ hiː³,ka¹+Σ+uʔ³+hiː³,k a ⁵ Σ u ʔ ¹ h ii ¹,k a ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim419,mu:³,1.pl.incl.3.sg.nfut.aff,i¹ muː³ hiː³,i¹ Σ hiː³,i¹+Σ+hiː³,i ⁵ Σ h ii ¹,i ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim420,mu:³,1.pl.excl.3.pl.nfut.aff,muː³ uŋ³,Σ uŋ³,Σ+uŋ³,Σ u ŋ ¹,Σ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim421,mu:³,1.pl.incl.3.pl.nfut.aff,muː³ haŋ³,Σ haŋ³,Σ+haŋ³,Σ h a ŋ ¹,Σ + h a ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim422,mu:³,1.pl.excl.3.pl.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim423,mu:³,1.pl.excl.3.pl.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim424,mu:³,1.pl.incl.3.pl.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim425,mu:³,1.pl.incl.3.pl.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim426,mu:³,1.pl.excl.3.pl.nfut.aff,ka¹ muː³ hiː³,ka¹ Σ hiː³,ka¹+Σ+hiː³,k a ⁵ Σ h ii ¹,k a ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim427,mu:³,1.pl.excl.3.pl.nfut.aff,ka¹ muː³ uʔ³ hiː³,ka¹ Σ uʔ³ hiː³,ka¹+Σ+uʔ³+hiː³,k a ⁵ Σ u ʔ ¹ h ii ¹,k a ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim428,mu:³,1.pl.incl.3.pl.nfut.aff,i¹ muː³ hiː³,i¹ Σ hiː³,i¹+Σ+hiː³,i ⁵ Σ h ii ¹,i ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim429,pai²,2.sg.nfut.aff,pai² teʔ³,Σ teʔ³,Σ+teʔ³,Σ t e ʔ ¹,Σ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim430,pai²,2.sg.nfut.aff,pai²,Σ,Σ,Σ,Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim431,pai²,2.sg.nfut.aff,na² pai² hiː³,na² Σ hiː³,na²+Σ+hiː³,n a ³ Σ h ii ¹,n a ³ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim432,pai²,2.pl.nfut.aff,pai² teʔ³,Σ teʔ³,Σ+teʔ³,Σ t e ʔ ¹,Σ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim433,pai²,2.pl.nfut.aff,pai² uʔ³teʔ³,Σ uʔ³teʔ³,Σ+uʔ³+teʔ³,Σ u ʔ ¹ t e ʔ ¹,Σ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim434,pai²,2.pl.nfut.aff,pai²,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim435,pai²,2.pl.nfut.aff,pai² uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim436,pai²,2.pl.nfut.aff,na² pai² hiː³,na² Σ hiː³,na²+Σ+hiː³,n a ³ Σ h ii ¹,n a ³ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim437,pai²,2.pl.nfut.aff,na² pai² uʔ³ hiː³,na² Σ uʔ³ hiː³,na²+Σ+uʔ³+hiː³,n a ³ Σ u ʔ ¹ h ii ¹,n a ³ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim438,mu:³,2.sg.1.sg.nfut.aff,hoŋ¹-muː³ teʔ³,hoŋ¹-Σ teʔ³,hoŋ¹+Σ+teʔ³,h o ŋ ⁵ Σ t e ʔ ¹,h o ŋ ⁵ + Σ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim439,mu:³,2.sg.1.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim440,mu:³,2.sg.1.sg.nfut.aff,noŋ¹-muː³ hiː³,noŋ¹-Σ hiː³,noŋ¹+Σ+hiː³,n o ŋ ⁵ Σ h ii ¹,n o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim441,mu:³,2.sg.1.pl.excl.nfut.aff,hoŋ¹-muː³ teʔ³,hoŋ¹-Σ teʔ³,hoŋ¹+Σ+teʔ³,h o ŋ ⁵ Σ t e ʔ ¹,h o ŋ ⁵ + Σ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim442,mu:³,2.sg.1.pl.excl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim443,mu:³,2.sg.1.pl.excl.nfut.aff,noŋ¹-muː³ hiː³,noŋ¹-Σ hiː³,noŋ¹+Σ+hiː³,n o ŋ ⁵ Σ h ii ¹,n o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim444,mu:³,2.pl.1.sg.nfut.aff,hoŋ¹-muː³ teʔ³,hoŋ¹-Σ teʔ³,hoŋ¹+Σ+teʔ³,h o ŋ ⁵ Σ t e ʔ ¹,h o ŋ ⁵ + Σ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim445,mu:³,2.pl.1.sg.nfut.aff,hoŋ¹-muː³ uʔ³teʔ³,hoŋ¹-Σ uʔ³teʔ³,hoŋ¹+Σ+uʔ³+teʔ³,h o ŋ ⁵ Σ u ʔ ¹ t e ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim446,mu:³,2.pl.1.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim447,mu:³,2.pl.1.sg.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim448,mu:³,2.pl.1.sg.nfut.aff,noŋ¹-muː³ hiː³,noŋ¹-Σ hiː³,noŋ¹+Σ+hiː³,n o ŋ ⁵ Σ h ii ¹,n o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim449,mu:³,2.pl.1.sg.nfut.aff,noŋ¹-muː³ uʔ³ hiː³,noŋ¹-Σ uʔ³ hiː³,noŋ¹+Σ+uʔ³+hiː³,n o ŋ ⁵ Σ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim450,mu:³,2.pl.1.pl.excl.nfut.aff,hoŋ¹-muː³ teʔ³,hoŋ¹-Σ teʔ³,hoŋ¹+Σ+teʔ³,h o ŋ ⁵ Σ t e ʔ ¹,h o ŋ ⁵ + Σ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim451,mu:³,2.pl.1.pl.excl.nfut.aff,hoŋ¹-muː³ uʔ³teʔ³,hoŋ¹-Σ uʔ³teʔ³,hoŋ¹+Σ+uʔ³+teʔ³,h o ŋ ⁵ Σ u ʔ ¹ t e ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim452,mu:³,2.pl.1.pl.excl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim453,mu:³,2.pl.1.pl.excl.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim454,mu:³,2.pl.1.pl.excl.nfut.aff,noŋ¹-muː³ hiː³,noŋ¹-Σ hiː³,noŋ¹+Σ+hiː³,n o ŋ ⁵ Σ h ii ¹,n o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim455,mu:³,2.pl.1.pl.excl.nfut.aff,noŋ¹-muː³ uʔ³ hiː³,noŋ¹-Σ uʔ³ hiː³,noŋ¹+Σ+uʔ³+hiː³,n o ŋ ⁵ Σ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim456,mu:³,2.sg.3.sg.nfut.aff,muː³ teʔ³,Σ teʔ³,Σ+teʔ³,Σ t e ʔ ¹,Σ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim457,mu:³,2.sg.3.sg.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim458,mu:³,2.sg.3.sg.nfut.aff,na¹ muː³ hiː³,na¹ Σ hiː³,na¹+Σ+hiː³,n a ⁵ Σ h ii ¹,n a ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim459,mu:³,2.sg.3.pl.nfut.aff,muː³ teʔ³,Σ teʔ³,Σ+teʔ³,Σ t e ʔ ¹,Σ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim460,mu:³,2.sg.3.pl.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim461,mu:³,2.sg.3.pl.nfut.aff,na¹ muː³ hiː³,na¹ Σ hiː³,na¹+Σ+hiː³,n a ⁵ Σ h ii ¹,n a ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim462,mu:³,2.pl.3.sg.nfut.aff,muː³ teʔ³,Σ teʔ³,Σ+teʔ³,Σ t e ʔ ¹,Σ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim463,mu:³,2.pl.3.sg.nfut.aff,muː³ uʔ³teʔ³,Σ uʔ³teʔ³,Σ+uʔ³+teʔ³,Σ u ʔ ¹ t e ʔ ¹,Σ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim464,mu:³,2.pl.3.sg.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim465,mu:³,2.pl.3.sg.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim466,mu:³,2.pl.3.sg.nfut.aff,na¹ muː³ hiː³,na¹ Σ hiː³,na¹+Σ+hiː³,n a ⁵ Σ h ii ¹,n a ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim467,mu:³,2.pl.3.sg.nfut.aff,na¹ muː³ uʔ³ hiː³,na¹ Σ uʔ³ hiː³,na¹+Σ+uʔ³+hiː³,n a ⁵ Σ u ʔ ¹ h ii ¹,n a ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim468,mu:³,2.pl.3.pl.nfut.aff,muː³ teʔ³,Σ teʔ³,Σ+teʔ³,Σ t e ʔ ¹,Σ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim469,mu:³,2.pl.3.pl.nfut.aff,muː³ uʔ³teʔ³,Σ uʔ³teʔ³,Σ+uʔ³+teʔ³,Σ u ʔ ¹ t e ʔ ¹,Σ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim470,mu:³,2.pl.3.pl.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,unspec_par,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim471,mu:³,2.pl.3.pl.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,unspec_par,,Zhou2025Tedim,nopage,tedim
+tedim472,mu:³,2.pl.3.pl.nfut.aff,na¹ muː³ hiː³,na¹ Σ hiː³,na¹+Σ+hiː³,n a ⁵ Σ h ii ¹,n a ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim473,mu:³,2.pl.3.pl.nfut.aff,na¹ muː³ uʔ³ hiː³,na¹ Σ uʔ³ hiː³,na¹+Σ+uʔ³+hiː³,n a ⁵ Σ u ʔ ¹ h ii ¹,n a ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim474,pai²,3.sg.nfut.aff,a² pai² hiː³,a² Σ hiː³,a²+Σ+hiː³,a ³ Σ h ii ¹,a ³ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim475,pai²,3.sg.nfut.aff,pai²,Σ,Σ,Σ,Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim476,pai²,3.pl.nfut.aff,a² pai² hiː³,a² Σ hiː³,a²+Σ+hiː³,a ³ Σ h ii ¹,a ³ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim477,pai²,3.pl.nfut.aff,a² pai² uʔ³ hiː³,a² Σ uʔ³ hiː³,a²+Σ+uʔ³+hiː³,a ³ Σ u ʔ ¹ h ii ¹,a ³ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim478,pai²,3.pl.nfut.aff,pai²,Σ,Σ,Σ,Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim479,pai²,3.pl.nfut.aff,pai² uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim480,mu:³,3.sg.1.sg.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim481,mu:³,3.sg.1.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim482,mu:³,3.sg.1.pl.excl.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim483,mu:³,3.sg.1.pl.incl.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim484,mu:³,3.sg.1.pl.excl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim485,mu:³,3.sg.1.pl.incl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim486,mu:³,3.pl.1.sg.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim487,mu:³,3.pl.1.sg.nfut.aff,a³ hoŋ¹-muː³ uʔ³ hiː³,a³ hoŋ¹-Σ uʔ³ hiː³,a³+hoŋ¹+Σ+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim488,mu:³,3.pl.1.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim489,mu:³,3.pl.1.sg.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim490,mu:³,3.pl.1.pl.excl.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim491,mu:³,3.pl.1.pl.excl.nfut.aff,a³ hoŋ¹-muː³ uʔ³ hiː³,a³ hoŋ¹-Σ uʔ³ hiː³,a³+hoŋ¹+Σ+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim492,mu:³,3.pl.1.pl.incl.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim493,mu:³,3.pl.1.pl.incl.nfut.aff,a³ hoŋ¹-muː³ uʔ³ hiː³,a³ hoŋ¹-Σ uʔ³ hiː³,a³+hoŋ¹+Σ+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim494,mu:³,3.pl.1.pl.excl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim495,mu:³,3.pl.1.pl.excl.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim496,mu:³,3.pl.1.pl.incl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim497,mu:³,3.pl.1.pl.incl.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim498,mu:³,3.sg.2.sg.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim499,mu:³,3.sg.2.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim500,mu:³,3.sg.2.pl.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim501,mu:³,3.sg.2.pl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim502,mu:³,3.pl.2.sg.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim503,mu:³,3.pl.2.sg.nfut.aff,a³ hoŋ¹-muː³ uʔ³ hiː³,a³ hoŋ¹-Σ uʔ³ hiː³,a³+hoŋ¹+Σ+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim504,mu:³,3.pl.2.sg.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim505,mu:³,3.pl.2.sg.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim506,mu:³,3.pl.2.pl.nfut.aff,a³ hoŋ¹-muː³ hiː³,a³ hoŋ¹-Σ hiː³,a³+hoŋ¹+Σ+hiː³,a ¹ h o ŋ ⁵ Σ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim507,mu:³,3.pl.2.pl.nfut.aff,a³ hoŋ¹-muː³ uʔ³ hiː³,a³ hoŋ¹-Σ uʔ³ hiː³,a³+hoŋ¹+Σ+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim508,mu:³,3.pl.2.pl.nfut.aff,hoŋ¹-muː³,hoŋ¹-Σ,hoŋ¹+Σ,h o ŋ ⁵ Σ,h o ŋ ⁵ + Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim509,mu:³,3.pl.2.pl.nfut.aff,hoŋ¹-muː³ uʔ³,hoŋ¹-Σ uʔ³,hoŋ¹+Σ+uʔ³,h o ŋ ⁵ Σ u ʔ ¹,h o ŋ ⁵ + Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim510,mu:³,3.sg.3.sg.nfut.aff,a¹ muː³ hiː³,a¹ Σ hiː³,a¹+Σ+hiː³,a ⁵ Σ h ii ¹,a ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim511,mu:³,3.sg.3.sg.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim512,mu:³,3.sg.3.pl.nfut.aff,a¹ muː³ hiː³,a¹ Σ hiː³,a¹+Σ+hiː³,a ⁵ Σ h ii ¹,a ⁵ + Σ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim513,mu:³,3.sg.3.pl.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,,,Zhou2025Tedim,nopage,tedim
+tedim514,mu:³,3.pl.3.sg.nfut.aff,a¹ muː³ hiː³,a¹ Σ hiː³,a¹+Σ+hiː³,a ⁵ Σ h ii ¹,a ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim515,mu:³,3.pl.3.sg.nfut.aff,a¹ muː³ uʔ³ hiː³,a¹ Σ uʔ³ hiː³,a¹+Σ+uʔ³+hiː³,a ⁵ Σ u ʔ ¹ h ii ¹,a ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim516,mu:³,3.pl.3.sg.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim517,mu:³,3.pl.3.sg.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim518,mu:³,3.pl.3.pl.nfut.aff,a¹ muː³ hiː³,a¹ Σ hiː³,a¹+Σ+hiː³,a ⁵ Σ h ii ¹,a ⁵ + Σ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim519,mu:³,3.pl.3.pl.nfut.aff,a¹ muː³ uʔ³ hiː³,a¹ Σ uʔ³ hiː³,a¹+Σ+uʔ³+hiː³,a ⁵ Σ u ʔ ¹ h ii ¹,a ⁵ + Σ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim520,mu:³,3.pl.3.pl.nfut.aff,muː³,Σ,Σ,Σ,Σ,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim521,mu:³,3.pl.3.pl.nfut.aff,muː³ uʔ³,Σ uʔ³,Σ+uʔ³,Σ u ʔ ¹,Σ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim522,pai²,1.sg.nfut.neg,pai² kei¹ iŋ³,Σ kei¹ iŋ³,Σ+kei¹+iŋ³,Σ k ei ⁵ i ŋ ¹,Σ + k ei ⁵ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim523,pai²,1.sg.nfut.neg,pai² lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim524,pai²,1.sg.nfut.neg,ka² pai² kei¹ hiː³,ka² Σ kei¹ hiː³,ka²+Σ+kei¹+hiː³,k a ³ Σ k ei ⁵ h ii ¹,k a ³ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim525,pai²,1.sg.nfut.neg,ka² pai² lou³ hiː³,ka² Σ lou³ hiː³,ka²+Σ+lou³+hiː³,k a ³ Σ l ou ¹ h ii ¹,k a ³ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim526,pai²,1.pl.excl.nfut.neg,pai² kei¹ uŋ³,Σ kei¹ uŋ³,Σ+kei¹+uŋ³,Σ k ei ⁵ u ŋ ¹,Σ + k ei ⁵ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim527,pai²,1.pl.incl.nfut.neg,pai² kei¹ haŋ³,Σ kei¹ haŋ³,Σ+kei¹+haŋ³,Σ k ei ⁵ h a ŋ ¹,Σ + k ei ⁵ + h a ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim528,pai²,1.pl.excl.nfut.neg,pai² lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim529,pai²,1.pl.excl.nfut.neg,pai² lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim530,pai²,1.pl.incl.nfut.neg,pai² lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim531,pai²,1.pl.incl.nfut.neg,pai² lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim532,pai²,1.pl.excl.nfut.neg,ka² pai² kei¹ hiː³,ka² Σ kei¹ hiː³,ka²+Σ+kei¹+hiː³,k a ³ Σ k ei ⁵ h ii ¹,k a ³ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim533,pai²,1.pl.excl.nfut.neg,ka² pai² kei¹ uʔ³ hiː³,ka² Σ kei¹ uʔ³ hiː³,ka²+Σ+kei¹+uʔ³+hiː³,k a ³ Σ k ei ⁵ u ʔ ¹ h ii ¹,k a ³ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim534,pai²,1.pl.excl.nfut.neg,ka² pai² lou³ hiː³,ka² Σ lou³ hiː³,ka²+Σ+lou³+hiː³,k a ³ Σ l ou ¹ h ii ¹,k a ³ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim535,pai²,1.pl.excl.nfut.neg,ka² pai² lou³ uʔ³ hiː³,ka² Σ lou³ uʔ³ hiː³,ka²+Σ+lou³+uʔ³+hiː³,k a ³ Σ l ou ¹ u ʔ ¹ h ii ¹,k a ³ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim536,pai²,1.pl.incl.nfut.neg,i² pai² kei¹ hiː³,i² Σ kei¹ hiː³,i²+Σ+kei¹+hiː³,i ³ Σ k ei ⁵ h ii ¹,i ³ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim537,pai²,1.pl.incl.nfut.neg,i² pai² lou³ hiː³,i² Σ lou³ hiː³,i²+Σ+lou³+hiː³,i ³ Σ l ou ¹ h ii ¹,i ³ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim538,mu:³,1.sg.2.sg.nfut.neg,hoŋ¹-mu³ kei¹ iŋ³,hoŋ¹-Σ kei¹ iŋ³,hoŋ¹+Σ+kei¹+iŋ³,h o ŋ ⁵ Σ k ei ⁵ i ŋ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim539,mu:³,1.sg.2.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim540,mu:³,1.sg.2.sg.nfut.neg,koŋ¹-mu³ kei¹ hiː³,koŋ¹-Σ kei¹ hiː³,koŋ¹+Σ+kei¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim541,mu:³,1.sg.2.sg.nfut.neg,koŋ¹-mu³ lou³ hiː³,koŋ¹-Σ lou³ hiː³,koŋ¹+Σ+lou³+hiː³,k o ŋ ⁵ Σ l ou ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim542,mu:³,1.sg.2.pl.nfut.neg,hoŋ¹-mu³ kei¹ iŋ³,hoŋ¹-Σ kei¹ iŋ³,hoŋ¹+Σ+kei¹+iŋ³,h o ŋ ⁵ Σ k ei ⁵ i ŋ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + i ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim543,mu:³,1.sg.2.pl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim544,mu:³,1.sg.2.pl.nfut.neg,koŋ¹-mu³ kei¹ hiː³,koŋ¹-Σ kei¹ hiː³,koŋ¹+Σ+kei¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim545,mu:³,1.sg.2.pl.nfut.neg,koŋ¹-mu³ lou³ hiː³,koŋ¹-Σ lou³ hiː³,koŋ¹+Σ+lou³+hiː³,k o ŋ ⁵ Σ l ou ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim546,mu:³,1.pl.excl.2.sg.nfut.neg,hoŋ¹-mu³ kei¹ uŋ³,hoŋ¹-Σ kei¹ uŋ³,hoŋ¹+Σ+kei¹+uŋ³,h o ŋ ⁵ Σ k ei ⁵ u ŋ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim547,mu:³,1.pl.excl.2.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim548,mu:³,1.pl.excl.2.sg.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim549,mu:³,1.pl.excl.2.sg.nfut.neg,koŋ¹-mu³ kei¹ hiː³,koŋ¹-Σ kei¹ hiː³,koŋ¹+Σ+kei¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim550,mu:³,1.pl.excl.2.sg.nfut.neg,koŋ¹-mu³ kei¹ uʔ³ hiː³,koŋ¹-Σ kei¹ uʔ³ hiː³,koŋ¹+Σ+kei¹+uʔ³+hiː³,k o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim551,mu:³,1.pl.excl.2.sg.nfut.neg,koŋ¹-mu³ lou³ hiː³,koŋ¹-Σ lou³ hiː³,koŋ¹+Σ+lou³+hiː³,k o ŋ ⁵ Σ l ou ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim552,mu:³,1.pl.excl.2.sg.nfut.neg,koŋ¹-mu³ lou³ uʔ³ hiː³,koŋ¹-Σ lou³ uʔ³ hiː³,koŋ¹+Σ+lou³+uʔ³+hiː³,k o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim553,mu:³,1.pl.excl.2.pl.nfut.neg,hoŋ¹-mu³ kei¹ uŋ³,hoŋ¹-Σ kei¹ uŋ³,hoŋ¹+Σ+kei¹+uŋ³,h o ŋ ⁵ Σ k ei ⁵ u ŋ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim554,mu:³,1.pl.excl.2.pl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim555,mu:³,1.pl.excl.2.pl.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim556,mu:³,1.pl.excl.2.pl.nfut.neg,koŋ¹-mu³ kei¹ hiː³,koŋ¹-Σ kei¹ hiː³,koŋ¹+Σ+kei¹+hiː³,k o ŋ ⁵ Σ k ei ⁵ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim557,mu:³,1.pl.excl.2.pl.nfut.neg,koŋ¹-mu³ kei¹ uʔ³ hiː³,koŋ¹-Σ kei¹ uʔ³ hiː³,koŋ¹+Σ+kei¹+uʔ³+hiː³,k o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim558,mu:³,1.pl.excl.2.pl.nfut.neg,koŋ¹-mu³ lou³ hiː³,koŋ¹-Σ lou³ hiː³,koŋ¹+Σ+lou³+hiː³,k o ŋ ⁵ Σ l ou ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim559,mu:³,1.pl.excl.2.pl.nfut.neg,koŋ¹-mu³ lou³ uʔ³ hiː³,koŋ¹-Σ lou³ uʔ³ hiː³,koŋ¹+Σ+lou³+uʔ³+hiː³,k o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,k o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim560,mu:³,1.sg.3.sg.nfut.neg,mu³ kei¹ iŋ¹,Σ kei¹ iŋ¹,Σ+kei¹+iŋ¹,Σ k ei ⁵ i ŋ ⁵,Σ + k ei ⁵ + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim561,mu:³,1.sg.3.sg.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim562,mu:³,1.sg.3.sg.nfut.neg,ka¹ mu³ kei¹ hiː³,ka¹ Σ kei¹ hiː³,ka¹+Σ+kei¹+hiː³,k a ⁵ Σ k ei ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim563,mu:³,1.sg.3.sg.nfut.neg,ka¹ mu³ lou³ hiː³,ka¹ Σ lou³ hiː³,ka¹+Σ+lou³+hiː³,k a ⁵ Σ l ou ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim564,mu:³,1.sg.3.pl.nfut.neg,mu³ kei¹ iŋ¹,Σ kei¹ iŋ¹,Σ+kei¹+iŋ¹,Σ k ei ⁵ i ŋ ⁵,Σ + k ei ⁵ + i ŋ ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim565,mu:³,1.sg.3.pl.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim566,mu:³,1.sg.3.pl.nfut.neg,ka¹ mu³ kei¹ hiː³,ka¹ Σ kei¹ hiː³,ka¹+Σ+kei¹+hiː³,k a ⁵ Σ k ei ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim567,mu:³,1.sg.3.pl.nfut.neg,ka¹ mu³ lou³ hiː³,ka¹ Σ lou³ hiː³,ka¹+Σ+lou³+hiː³,k a ⁵ Σ l ou ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim568,mu:³,1.pl.excl.3.sg.nfut.neg,mu³ kei¹ uŋ³,Σ kei¹ uŋ³,Σ+kei¹+uŋ³,Σ k ei ⁵ u ŋ ¹,Σ + k ei ⁵ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim569,mu:³,1.pl.incl.3.sg.nfut.neg,mu³ kei¹ haŋ³,Σ kei¹ haŋ³,Σ+kei¹+haŋ³,Σ k ei ⁵ h a ŋ ¹,Σ + k ei ⁵ + h a ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim570,mu:³,1.pl.excl.3.sg.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim571,mu:³,1.pl.excl.3.sg.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim572,mu:³,1.pl.incl.3.sg.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim573,mu:³,1.pl.incl.3.sg.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim574,mu:³,1.pl.excl.3.sg.nfut.neg,ka¹ mu³ kei¹ hiː³,ka¹ Σ kei¹ hiː³,ka¹+Σ+kei¹+hiː³,k a ⁵ Σ k ei ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim575,mu:³,1.pl.excl.3.sg.nfut.neg,ka¹ mu³ kei¹ uʔ³ hiː³,ka¹ Σ kei¹ uʔ³ hiː³,ka¹+Σ+kei¹+uʔ³+hiː³,k a ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim576,mu:³,1.pl.excl.3.sg.nfut.neg,ka¹ mu³ lou³ hiː³,ka¹ Σ lou³ hiː³,ka¹+Σ+lou³+hiː³,k a ⁵ Σ l ou ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim577,mu:³,1.pl.excl.3.sg.nfut.neg,ka¹ mu³ lou³ uʔ³ hiː³,ka¹ Σ lou³ uʔ³ hiː³,ka¹+Σ+lou³+uʔ³+hiː³,k a ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim578,mu:³,1.pl.incl.3.sg.nfut.neg,i¹ mu³ kei¹ hiː³,i¹ Σ kei¹ hiː³,i¹+Σ+kei¹+hiː³,i ⁵ Σ k ei ⁵ h ii ¹,i ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim579,mu:³,1.pl.incl.3.sg.nfut.neg,i¹ mu³ lou³ hiː³,i¹ Σ lou³ hiː³,i¹+Σ+lou³+hiː³,i ⁵ Σ l ou ¹ h ii ¹,i ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim580,mu:³,1.pl.excl.3.pl.nfut.neg,mu³ kei¹ uŋ³,Σ kei¹ uŋ³,Σ+kei¹+uŋ³,Σ k ei ⁵ u ŋ ¹,Σ + k ei ⁵ + u ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim581,mu:³,1.pl.incl.3.pl.nfut.neg,mu³ kei¹ haŋ³,Σ kei¹ haŋ³,Σ+kei¹+haŋ³,Σ k ei ⁵ h a ŋ ¹,Σ + k ei ⁵ + h a ŋ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim582,mu:³,1.pl.excl.3.pl.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim583,mu:³,1.pl.excl.3.pl.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim584,mu:³,1.pl.incl.3.pl.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim585,mu:³,1.pl.incl.3.pl.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim586,mu:³,1.pl.excl.3.pl.nfut.neg,ka¹ mu³ kei¹ hiː³,ka¹ Σ kei¹ hiː³,ka¹+Σ+kei¹+hiː³,k a ⁵ Σ k ei ⁵ h ii ¹,k a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim587,mu:³,1.pl.excl.3.pl.nfut.neg,ka¹ mu³ kei¹ uʔ³ hiː³,ka¹ Σ kei¹ uʔ³ hiː³,ka¹+Σ+kei¹+uʔ³+hiː³,k a ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,k a ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim588,mu:³,1.pl.excl.3.pl.nfut.neg,ka¹ mu³ lou³ hiː³,ka¹ Σ lou³ hiː³,ka¹+Σ+lou³+hiː³,k a ⁵ Σ l ou ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim589,mu:³,1.pl.excl.3.pl.nfut.neg,ka¹ mu³ lou³ uʔ³ hiː³,ka¹ Σ lou³ uʔ³ hiː³,ka¹+Σ+lou³+uʔ³+hiː³,k a ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,k a ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim590,mu:³,1.pl.incl.3.pl.nfut.neg,i¹ mu³ kei¹ hiː³,i¹ Σ kei¹ hiː³,i¹+Σ+kei¹+hiː³,i ⁵ Σ k ei ⁵ h ii ¹,i ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim591,mu:³,1.pl.incl.3.pl.nfut.neg,i¹ mu³ lou³ hiː³,i¹ Σ lou³ hiː³,i¹+Σ+lou³+hiː³,i ⁵ Σ l ou ¹ h ii ¹,i ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim592,pai²,2.sg.nfut.neg,pai² kei¹ teʔ³,Σ kei¹ teʔ³,Σ+kei¹+teʔ³,Σ k ei ⁵ t e ʔ ¹,Σ + k ei ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim593,pai²,2.sg.nfut.neg,pai² lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim594,pai²,2.sg.nfut.neg,na² pai² kei¹ hiː³,na² Σ kei¹ hiː³,na²+Σ+kei¹+hiː³,n a ³ Σ k ei ⁵ h ii ¹,n a ³ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim595,pai²,2.sg.nfut.neg,na² pai² lou³ hiː³,na² Σ lou³ hiː³,na²+Σ+lou³+hiː³,n a ³ Σ l ou ¹ h ii ¹,n a ³ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim596,pai²,2.pl.nfut.neg,pai² kei¹ teʔ³,Σ kei¹ teʔ³,Σ+kei¹+teʔ³,Σ k ei ⁵ t e ʔ ¹,Σ + k ei ⁵ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim597,pai²,2.pl.nfut.neg,pai² kei¹ uʔ³teʔ³,Σ kei¹ uʔ³teʔ³,Σ+kei¹+uʔ³+teʔ³,Σ k ei ⁵ u ʔ ¹ t e ʔ ¹,Σ + k ei ⁵ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim598,pai²,2.pl.nfut.neg,pai² lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim599,pai²,2.pl.nfut.neg,pai² lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim600,pai²,2.pl.nfut.neg,na² pai² kei¹ hiː³,na² Σ kei¹ hiː³,na²+Σ+kei¹+hiː³,n a ³ Σ k ei ⁵ h ii ¹,n a ³ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim601,pai²,2.pl.nfut.neg,na² pai² kei¹ uʔ³ hiː³,na² Σ kei¹ uʔ³ hiː³,na²+Σ+kei¹+uʔ³+hiː³,n a ³ Σ k ei ⁵ u ʔ ¹ h ii ¹,n a ³ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim602,pai²,2.pl.nfut.neg,na² pai² lou³ hiː³,na² Σ lou³ hiː³,na²+Σ+lou³+hiː³,n a ³ Σ l ou ¹ h ii ¹,n a ³ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim603,pai²,2.pl.nfut.neg,na² pai² lou³ uʔ³ hiː³,na² Σ lou³ uʔ³ hiː³,na²+Σ+lou³+uʔ³+hiː³,n a ³ Σ l ou ¹ u ʔ ¹ h ii ¹,n a ³ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim604,mu:³,2.sg.1.sg.nfut.neg,hoŋ¹-muː³ kei¹ teʔ³,hoŋ¹-Σ kei¹ teʔ³,hoŋ¹+Σ+kei¹+teʔ³,h o ŋ ⁵ Σ k ei ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim605,mu:³,2.sg.1.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim606,mu:³,2.sg.1.sg.nfut.neg,noŋ¹-mu³ kei¹ hiː³,noŋ¹-Σ kei¹ hiː³,noŋ¹+Σ+kei¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim607,mu:³,2.sg.1.sg.nfut.neg,noŋ¹-mu³ lou³ hiː³,noŋ¹-Σ lou³ hiː³,noŋ¹+Σ+lou³+hiː³,n o ŋ ⁵ Σ l ou ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim608,mu:³,2.sg.1.pl.excl.nfut.neg,hoŋ¹-muː³ kei¹ teʔ³,hoŋ¹-Σ kei¹ teʔ³,hoŋ¹+Σ+kei¹+teʔ³,h o ŋ ⁵ Σ k ei ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim609,mu:³,2.sg.1.pl.excl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim610,mu:³,2.sg.1.pl.excl.nfut.neg,noŋ¹-mu³ kei¹ hiː³,noŋ¹-Σ kei¹ hiː³,noŋ¹+Σ+kei¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim611,mu:³,2.sg.1.pl.excl.nfut.neg,noŋ¹-mu³ lou³ hiː³,noŋ¹-Σ lou³ hiː³,noŋ¹+Σ+lou³+hiː³,n o ŋ ⁵ Σ l ou ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim612,mu:³,2.pl.1.sg.nfut.neg,hoŋ¹-mu³ kei¹ teʔ³,hoŋ¹-Σ kei¹ teʔ³,hoŋ¹+Σ+kei¹+teʔ³,h o ŋ ⁵ Σ k ei ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim613,mu:³,2.pl.1.sg.nfut.neg,hoŋ¹-mu³ kei¹ uʔ³teʔ³,hoŋ¹-Σ kei¹ uʔ³teʔ³,hoŋ¹+Σ+kei¹+uʔ³+teʔ³,h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim614,mu:³,2.pl.1.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim615,mu:³,2.pl.1.sg.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim616,mu:³,2.pl.1.sg.nfut.neg,noŋ¹-mu³ kei¹ hiː³,noŋ¹-Σ kei¹ hiː³,noŋ¹+Σ+kei¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim617,mu:³,2.pl.1.sg.nfut.neg,noŋ¹-mu³ kei¹ uʔ³ hiː³,noŋ¹-Σ kei¹ uʔ³ hiː³,noŋ¹+Σ+kei¹+uʔ³+hiː³,n o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim618,mu:³,2.pl.1.sg.nfut.neg,noŋ¹-mu³ lou³ hiː³,noŋ¹-Σ lou³ hiː³,noŋ¹+Σ+lou³+hiː³,n o ŋ ⁵ Σ l ou ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim619,mu:³,2.pl.1.sg.nfut.neg,noŋ¹-mu³ lou³ uʔ³ hiː³,noŋ¹-Σ lou³ uʔ³ hiː³,noŋ¹+Σ+lou³+uʔ³+hiː³,n o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim620,mu:³,2.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ kei¹ teʔ³,hoŋ¹-Σ kei¹ teʔ³,hoŋ¹+Σ+kei¹+teʔ³,h o ŋ ⁵ Σ k ei ⁵ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim621,mu:³,2.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ kei¹ uʔ³teʔ³,hoŋ¹-Σ kei¹ uʔ³teʔ³,hoŋ¹+Σ+kei¹+uʔ³+teʔ³,h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ t e ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim622,mu:³,2.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim623,mu:³,2.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim624,mu:³,2.pl.1.pl.excl.nfut.neg,noŋ¹-mu³ kei¹ hiː³,noŋ¹-Σ kei¹ hiː³,noŋ¹+Σ+kei¹+hiː³,n o ŋ ⁵ Σ k ei ⁵ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim625,mu:³,2.pl.1.pl.excl.nfut.neg,noŋ¹-mu³ kei¹ uʔ³ hiː³,noŋ¹-Σ kei¹ uʔ³ hiː³,noŋ¹+Σ+kei¹+uʔ³+hiː³,n o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim626,mu:³,2.pl.1.pl.excl.nfut.neg,noŋ¹-mu³ lou³ hiː³,noŋ¹-Σ lou³ hiː³,noŋ¹+Σ+lou³+hiː³,n o ŋ ⁵ Σ l ou ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim627,mu:³,2.pl.1.pl.excl.nfut.neg,noŋ¹-mu³ lou³ uʔ³ hiː³,noŋ¹-Σ lou³ uʔ³ hiː³,noŋ¹+Σ+lou³+uʔ³+hiː³,n o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,n o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim628,mu:³,2.sg.3.sg.nfut.neg,mu³ kei¹ teʔ³,Σ kei¹ teʔ³,Σ+kei¹+teʔ³,Σ k ei ⁵ t e ʔ ¹,Σ + k ei ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim629,mu:³,2.sg.3.sg.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim630,mu:³,2.sg.3.sg.nfut.neg,na¹ mu³ kei¹ hiː³,na¹ Σ kei¹ hiː³,na¹+Σ+kei¹+hiː³,n a ⁵ Σ k ei ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim631,mu:³,2.sg.3.sg.nfut.neg,na¹ mu³ lou³ hiː³,na¹ Σ lou³ hiː³,na¹+Σ+lou³+hiː³,n a ⁵ Σ l ou ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim632,mu:³,2.sg.3.pl.nfut.neg,mu³ kei¹ teʔ³,Σ kei¹ teʔ³,Σ+kei¹+teʔ³,Σ k ei ⁵ t e ʔ ¹,Σ + k ei ⁵ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim633,mu:³,2.sg.3.pl.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim634,mu:³,2.sg.3.pl.nfut.neg,na¹ mu³ kei¹ hiː³,na¹ Σ kei¹ hiː³,na¹+Σ+kei¹+hiː³,n a ⁵ Σ k ei ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim635,mu:³,2.sg.3.pl.nfut.neg,na¹ mu³ lou³ hiː³,na¹ Σ lou³ hiː³,na¹+Σ+lou³+hiː³,n a ⁵ Σ l ou ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim636,mu:³,2.pl.3.sg.nfut.neg,mu³ kei¹ teʔ³,Σ kei¹ teʔ³,Σ+kei¹+teʔ³,Σ k ei ⁵ t e ʔ ¹,Σ + k ei ⁵ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim637,mu:³,2.pl.3.sg.nfut.neg,mu³ kei¹ uʔ³teʔ³,Σ kei¹ uʔ³teʔ³,Σ+kei¹+uʔ³+teʔ³,Σ k ei ⁵ u ʔ ¹ t e ʔ ¹,Σ + k ei ⁵ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim638,mu:³,2.pl.3.sg.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim639,mu:³,2.pl.3.sg.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim640,mu:³,2.pl.3.sg.nfut.neg,na¹ mu³ kei¹ hiː³,na¹ Σ kei¹ hiː³,na¹+Σ+kei¹+hiː³,n a ⁵ Σ k ei ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim641,mu:³,2.pl.3.sg.nfut.neg,na¹ mu³ kei¹ uʔ³ hiː³,na¹ Σ kei¹ uʔ³ hiː³,na¹+Σ+kei¹+uʔ³+hiː³,n a ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim642,mu:³,2.pl.3.sg.nfut.neg,na¹ mu³ lou³ hiː³,na¹ Σ lou³ hiː³,na¹+Σ+lou³+hiː³,n a ⁵ Σ l ou ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim643,mu:³,2.pl.3.sg.nfut.neg,na¹ mu³ lou³ uʔ³ hiː³,na¹ Σ lou³ uʔ³ hiː³,na¹+Σ+lou³+uʔ³+hiː³,n a ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim644,mu:³,2.pl.3.pl.nfut.neg,mu³ kei¹ teʔ³,Σ kei¹ teʔ³,Σ+kei¹+teʔ³,Σ k ei ⁵ t e ʔ ¹,Σ + k ei ⁵ + t e ʔ ¹,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim645,mu:³,2.pl.3.pl.nfut.neg,mu³ kei¹ uʔ³teʔ³,Σ kei¹ uʔ³teʔ³,Σ+kei¹+uʔ³+teʔ³,Σ k ei ⁵ u ʔ ¹ t e ʔ ¹,Σ + k ei ⁵ + u ʔ ¹ + t e ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim646,mu:³,2.pl.3.pl.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim647,mu:³,2.pl.3.pl.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim648,mu:³,2.pl.3.pl.nfut.neg,na¹ mu³ kei¹ hiː³,na¹ Σ kei¹ hiː³,na¹+Σ+kei¹+hiː³,n a ⁵ Σ k ei ⁵ h ii ¹,n a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim649,mu:³,2.pl.3.pl.nfut.neg,na¹ mu³ kei¹ uʔ³ hiː³,na¹ Σ kei¹ uʔ³ hiː³,na¹+Σ+kei¹+uʔ³+hiː³,n a ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,n a ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim650,mu:³,2.pl.3.pl.nfut.neg,na¹ mu³ lou³ hiː³,na¹ Σ lou³ hiː³,na¹+Σ+lou³+hiː³,n a ⁵ Σ l ou ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim651,mu:³,2.pl.3.pl.nfut.neg,na¹ mu³ lou³ uʔ³ hiː³,na¹ Σ lou³ uʔ³ hiː³,na¹+Σ+lou³+uʔ³+hiː³,n a ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,n a ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim652,pai²,3.sg.nfut.neg,pai² kei¹,Σ kei¹,Σ+kei¹,Σ k ei ⁵,Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim653,pai²,3.sg.nfut.neg,pai² lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim654,pai²,3.sg.nfut.neg,a² pai² kei¹ hiː³,a² Σ kei¹ hiː³,a²+Σ+kei¹+hiː³,a ³ Σ k ei ⁵ h ii ¹,a ³ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim655,pai²,3.sg.nfut.neg,a² pai² lou³ hiː³,a² Σ lou³ hiː³,a²+Σ+lou³+hiː³,a ³ Σ l ou ¹ h ii ¹,a ³ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim656,pai²,3.pl.nfut.neg,pai² kei¹,Σ kei¹,Σ+kei¹,Σ k ei ⁵,Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim657,pai²,3.pl.nfut.neg,pai² kei¹ uʔ³,Σ kei¹ uʔ³,Σ+kei¹+uʔ³,Σ k ei ⁵ u ʔ ¹,Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim658,pai²,3.pl.nfut.neg,pai² lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim659,pai²,3.pl.nfut.neg,pai² lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim660,pai²,3.pl.nfut.neg,a² pai² kei¹ hiː³,a² Σ kei¹ hiː³,a²+Σ+kei¹+hiː³,a ³ Σ k ei ⁵ h ii ¹,a ³ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim661,pai²,3.pl.nfut.neg,a² pai² kei¹ uʔ³ hiː³,a² Σ kei¹ uʔ³ hiː³,a²+Σ+kei¹+uʔ³+hiː³,a ³ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ³ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim662,pai²,3.pl.nfut.neg,a² pai² lou³ hiː³,a² Σ lou³ hiː³,a²+Σ+lou³+hiː³,a ³ Σ l ou ¹ h ii ¹,a ³ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim663,pai²,3.pl.nfut.neg,a² pai² lou³ uʔ³ hiː³,a² Σ lou³ uʔ³ hiː³,a²+Σ+lou³+uʔ³+hiː³,a ³ Σ l ou ¹ u ʔ ¹ h ii ¹,a ³ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim664,mu:³,3.sg.1.sg.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim665,mu:³,3.sg.1.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim666,mu:³,3.sg.1.sg.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim667,mu:³,3.sg.1.sg.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim668,mu:³,3.sg.1.pl.excl.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim669,mu:³,3.sg.1.pl.incl.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim670,mu:³,3.sg.1.pl.excl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim671,mu:³,3.sg.1.pl.incl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim672,mu:³,3.sg.1.pl.excl.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim673,mu:³,3.sg.1.pl.excl.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim674,mu:³,3.sg.1.pl.incl.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim675,mu:³,3.sg.1.pl.incl.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim676,mu:³,3.pl.1.sg.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim677,mu:³,3.pl.1.sg.nfut.neg,hoŋ¹-mu³ kei¹ uʔ³,hoŋ¹-Σ kei¹ uʔ³,hoŋ¹+Σ+kei¹+uʔ³,h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim678,mu:³,3.pl.1.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim679,mu:³,3.pl.1.sg.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim680,mu:³,3.pl.1.sg.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim681,mu:³,3.pl.1.sg.nfut.neg,a³ hoŋ¹-mu³ kei¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim682,mu:³,3.pl.1.sg.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim683,mu:³,3.pl.1.sg.nfut.neg,a³ hoŋ¹-mu³ lou³ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim684,mu:³,3.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim685,mu:³,3.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ kei¹ uʔ³,hoŋ¹-Σ kei¹ uʔ³,hoŋ¹+Σ+kei¹+uʔ³,h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim686,mu:³,3.pl.1.pl.incl.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim687,mu:³,3.pl.1.pl.incl.nfut.neg,hoŋ¹-mu³ kei¹ uʔ³,hoŋ¹-Σ kei¹ uʔ³,hoŋ¹+Σ+kei¹+uʔ³,h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim688,mu:³,3.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim689,mu:³,3.pl.1.pl.excl.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim690,mu:³,3.pl.1.pl.incl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim691,mu:³,3.pl.1.pl.incl.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim692,mu:³,3.pl.1.pl.excl.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim693,mu:³,3.pl.1.pl.excl.nfut.neg,a³ hoŋ¹-mu³ kei¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim694,mu:³,3.pl.1.pl.excl.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim695,mu:³,3.pl.1.pl.excl.nfut.neg,a³ hoŋ¹-mu³ lou³ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim696,mu:³,3.pl.1.pl.incl.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim697,mu:³,3.pl.1.pl.incl.nfut.neg,a³ hoŋ¹-mu³ kei¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim698,mu:³,3.pl.1.pl.incl.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim699,mu:³,3.pl.1.pl.incl.nfut.neg,a³ hoŋ¹-mu³ lou³ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim700,mu:³,3.sg.2.sg.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim701,mu:³,3.sg.2.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim702,mu:³,3.sg.2.sg.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim703,mu:³,3.sg.2.sg.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim704,mu:³,3.sg.2.pl.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim705,mu:³,3.sg.2.pl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim706,mu:³,3.sg.2.pl.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim707,mu:³,3.sg.2.pl.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim708,mu:³,3.pl.2.sg.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim709,mu:³,3.pl.2.sg.nfut.neg,hoŋ¹-mu³ kei¹ uʔ³,hoŋ¹-Σ kei¹ uʔ³,hoŋ¹+Σ+kei¹+uʔ³,h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim710,mu:³,3.pl.2.sg.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim711,mu:³,3.pl.2.sg.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim712,mu:³,3.pl.2.sg.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim713,mu:³,3.pl.2.sg.nfut.neg,a³ hoŋ¹-mu³ kei¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim714,mu:³,3.pl.2.sg.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim715,mu:³,3.pl.2.sg.nfut.neg,a³ hoŋ¹-mu³ lou³ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim716,mu:³,3.pl.2.pl.nfut.neg,hoŋ¹-mu³ kei¹,hoŋ¹-Σ kei¹,hoŋ¹+Σ+kei¹,h o ŋ ⁵ Σ k ei ⁵,h o ŋ ⁵ + Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim717,mu:³,3.pl.2.pl.nfut.neg,hoŋ¹-mu³ kei¹ uʔ³,hoŋ¹-Σ kei¹ uʔ³,hoŋ¹+Σ+kei¹+uʔ³,h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹,h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim718,mu:³,3.pl.2.pl.nfut.neg,hoŋ¹-mu³ lou³,hoŋ¹-Σ lou³,hoŋ¹+Σ+lou³,h o ŋ ⁵ Σ l ou ¹,h o ŋ ⁵ + Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim719,mu:³,3.pl.2.pl.nfut.neg,hoŋ¹-mu³ lou³ uʔ³,hoŋ¹-Σ lou³ uʔ³,hoŋ¹+Σ+lou³+uʔ³,h o ŋ ⁵ Σ l ou ¹ u ʔ ¹,h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim720,mu:³,3.pl.2.pl.nfut.neg,a³ hoŋ¹-mu³ kei¹ hiː³,a³ hoŋ¹-Σ kei¹ hiː³,a³+hoŋ¹+Σ+kei¹+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim721,mu:³,3.pl.2.pl.nfut.neg,a³ hoŋ¹-mu³ kei¹ uʔ³ hiː³,a³ hoŋ¹-Σ kei¹ uʔ³ hiː³,a³+hoŋ¹+Σ+kei¹+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim722,mu:³,3.pl.2.pl.nfut.neg,a³ hoŋ¹-mu³ lou³ hiː³,a³ hoŋ¹-Σ lou³ hiː³,a³+hoŋ¹+Σ+lou³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim723,mu:³,3.pl.2.pl.nfut.neg,a³ hoŋ¹-mu³ lou³ uʔ³ hiː³,a³ hoŋ¹-Σ lou³ uʔ³ hiː³,a³+hoŋ¹+Σ+lou³+uʔ³+hiː³,a ¹ h o ŋ ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,a ¹ + h o ŋ ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim724,mu:³,3.sg.3.sg.nfut.neg,mu³ kei¹,Σ kei¹,Σ+kei¹,Σ k ei ⁵,Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim725,mu:³,3.sg.3.sg.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim726,mu:³,3.sg.3.sg.nfut.neg,a¹ mu³ kei¹ hiː³,a¹ Σ kei¹ hiː³,a¹+Σ+kei¹+hiː³,a ⁵ Σ k ei ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim727,mu:³,3.sg.3.sg.nfut.neg,a¹ mu³ lou³ hiː³,a¹ Σ lou³ hiː³,a¹+Σ+lou³+hiː³,a ⁵ Σ l ou ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim728,mu:³,3.sg.3.pl.nfut.neg,mu³ kei¹,Σ kei¹,Σ+kei¹,Σ k ei ⁵,Σ + k ei ⁵,informal,,,Zhou2025Tedim,nopage,tedim
+tedim729,mu:³,3.sg.3.pl.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim730,mu:³,3.sg.3.pl.nfut.neg,a¹ mu³ kei¹ hiː³,a¹ Σ kei¹ hiː³,a¹+Σ+kei¹+hiː³,a ⁵ Σ k ei ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim731,mu:³,3.sg.3.pl.nfut.neg,a¹ mu³ lou³ hiː³,a¹ Σ lou³ hiː³,a¹+Σ+lou³+hiː³,a ⁵ Σ l ou ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim732,mu:³,3.pl.3.sg.nfut.neg,mu³ kei¹,Σ kei¹,Σ+kei¹,Σ k ei ⁵,Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim733,mu:³,3.pl.3.sg.nfut.neg,mu³ kei¹ uʔ³,Σ kei¹ uʔ³,Σ+kei¹+uʔ³,Σ k ei ⁵ u ʔ ¹,Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim734,mu:³,3.pl.3.sg.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim735,mu:³,3.pl.3.sg.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim736,mu:³,3.pl.3.sg.nfut.neg,a¹ mu³ kei¹ hiː³,a¹ Σ kei¹ hiː³,a¹+Σ+kei¹+hiː³,a ⁵ Σ k ei ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim737,mu:³,3.pl.3.sg.nfut.neg,a¹ mu³ kei¹ uʔ³ hiː³,a¹ Σ kei¹ uʔ³ hiː³,a¹+Σ+kei¹+uʔ³+hiː³,a ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim738,mu:³,3.pl.3.sg.nfut.neg,a¹ mu³ lou³ hiː³,a¹ Σ lou³ hiː³,a¹+Σ+lou³+hiː³,a ⁵ Σ l ou ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim739,mu:³,3.pl.3.sg.nfut.neg,a¹ mu³ lou³ uʔ³ hiː³,a¹ Σ lou³ uʔ³ hiː³,a¹+Σ+lou³+uʔ³+hiː³,a ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim740,mu:³,3.pl.3.pl.nfut.neg,mu³ kei¹,Σ kei¹,Σ+kei¹,Σ k ei ⁵,Σ + k ei ⁵,informal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim741,mu:³,3.pl.3.pl.nfut.neg,mu³ kei¹ uʔ³,Σ kei¹ uʔ³,Σ+kei¹+uʔ³,Σ k ei ⁵ u ʔ ¹,Σ + k ei ⁵ + u ʔ ¹,informal,,,Zhou2025Tedim,nopage,tedim
+tedim742,mu:³,3.pl.3.pl.nfut.neg,mu³ lou³,Σ lou³,Σ+lou³,Σ l ou ¹,Σ + l ou ¹,informal,unspec_par; lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim743,mu:³,3.pl.3.pl.nfut.neg,mu³ lou³ uʔ³,Σ lou³ uʔ³,Σ+lou³+uʔ³,Σ l ou ¹ u ʔ ¹,Σ + l ou ¹ + u ʔ ¹,informal,unspec_par; lou_neg,,Zhou2025Tedim,nopage,tedim
+tedim744,mu:³,3.pl.3.pl.nfut.neg,a¹ mu³ kei¹ hiː³,a¹ Σ kei¹ hiː³,a¹+Σ+kei¹+hiː³,a ⁵ Σ k ei ⁵ h ii ¹,a ⁵ + Σ + k ei ⁵ + h ii ¹,formal,,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim745,mu:³,3.pl.3.pl.nfut.neg,a¹ mu³ kei¹ uʔ³ hiː³,a¹ Σ kei¹ uʔ³ hiː³,a¹+Σ+kei¹+uʔ³+hiː³,a ⁵ Σ k ei ⁵ u ʔ ¹ h ii ¹,a ⁵ + Σ + k ei ⁵ + u ʔ ¹ + h ii ¹,formal,,,Zhou2025Tedim,nopage,tedim
+tedim746,mu:³,3.pl.3.pl.nfut.neg,a¹ mu³ lou³ hiː³,a¹ Σ lou³ hiː³,a¹+Σ+lou³+hiː³,a ⁵ Σ l ou ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + h ii ¹,formal,lou_neg,optional_plural,Zhou2025Tedim,nopage,tedim
+tedim747,mu:³,3.pl.3.pl.nfut.neg,a¹ mu³ lou³ uʔ³ hiː³,a¹ Σ lou³ uʔ³ hiː³,a¹+Σ+lou³+uʔ³+hiː³,a ⁵ Σ l ou ¹ u ʔ ¹ h ii ¹,a ⁵ + Σ + l ou ¹ + u ʔ ¹ + h ii ¹,formal,lou_neg,,Zhou2025Tedim,nopage,tedim

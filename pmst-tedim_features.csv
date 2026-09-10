@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,tedim
+incl,inclusive,clusivity,INCL,tedim
+pl,plural,number,PL,tedim
+sg,singular,number,SG,tedim
+1,first person,person,1,tedim
+2,second person,person,2,tedim
+3,third person,person,3,tedim
+aff,affirmative,polarity,POS,tedim
+neg,negative,polarity,NEG,tedim
+fut,future,tense_aspect,FUT,tedim
+nfut,non-future,tense_aspect,,tedim
